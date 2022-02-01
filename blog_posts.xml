@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://skylight.digital/blog_posts.xml" rel="self" type="application/atom+xml" /><link href="https://skylight.digital/" rel="alternate" type="text/html" /><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/blog_posts.xml</id><title type="html">Skylight - Digital government consulting | Blog_posts</title><subtitle>Skylight is a digital consultancy using design and technology to help government agencies deliver better public services.</subtitle><entry><title type="html">Charlye Tran: Serving people through service design</title><link href="https://skylight.digital/thoughts/blog/charlye-tran-serving-people-through-service-design/" rel="alternate" type="text/html" title="Charlye Tran: Serving people through service design" /><published>2021-08-23T00:00:00+00:00</published><updated>2021-08-23T00:00:00+00:00</updated><id>https://skylight.digital/thoughts/blog/charlye_tran_interview</id><content type="html" xml:base="https://skylight.digital/thoughts/blog/charlye-tran-serving-people-through-service-design/"><![CDATA[<p><em>Service Designer, <a href="/company/about/#charlye-tran">Charlye Tran</a>, wasn’t always a public-interest technologist, but her work always had a goal of delivering positive outcomes to people.</em></p>
+
+<p><strong>Chris Cairns: Tell me about your path to Skylight.</strong></p>
+
+<p><strong>Charlye Tran:</strong> I started my career as a prosthetist/orthotist and later brought prosthetic services to underserved areas around the globe. I founded a non-profit that helped improve medical services for amputees in partnership with local governments, hospitals, and NGOs. Through this work, I realized that collaboration between government and non-government organizations, combined with creative problem-solving techniques (concepts I now understand as service design and user-centered design), was pivotal to addressing seemingly impossible challenges.</p>
+
+<p><strong>Chris Cairns: How did you find out about Skylight?</strong></p>
+
+<p><strong>Charlye Tran:</strong> Later in my career, after I’d been working in tech for several years as a software and data engineer, I decided that I needed to get back to making a tangible difference with my work. I happened upon Skylight’s website and was immediately drawn in by the company’s values, people, and past work. I felt that it would be a mutually great fit!</p>
+
+<p><strong>Chris Cairns: Why did you decide to join?</strong></p>
+
+<p><strong>Charlye Tran:</strong> My first conversation at Skylight was with you! You spoke with such passion about the work Skylight was undertaking and about the potential impact I could have working there that I was immediately sold!</p>
+
+<p><strong>Chris Cairns: What have you worked on so far?</strong></p>
+
+<p><strong>Charlye Tran:</strong> I’m currently <a href="/work/experience/usaf-service-design-capacity-building/">leveraging service design</a> to assist the U.S. Air Force Weather Services Program Office (WxPO) as they migrate a number of services to the cloud. The work is challenging and daunting but extremely rewarding, as a successful result will increase the resiliency and usability of weather data that comes from the WxPO, while also improving the stability of applications that are built on this information.</p>
+
+<p>Applying a service design lens to this project is crucial since there are so many interconnected layers of stakeholders with differing  needs and goals, as well as a vast number of end users who rely on WxPO weather data for mission-critical tasks.</p>
+
+<p><strong>Chris Cairns: What do you see yourself accomplishing in the next six months?</strong></p>
+
+<p><strong>Charlye Tran:</strong> Over the course of the next six months, I imagine the work with the WxPO will transition to further prototyping and testing of our solutions to address some of their biggest challenges with moving the cloud migration efforts forward.</p>
+
+<p>Separately, we’ve been working with faculty at the UC San Diego Design Lab on developing a curriculum to help teach service design to both students and Air Force service members. We’ll also be finalizing service design as a service within the BESPIN Design Lab and working in partnership with them as they take on their first clients.</p>
+
+<p><strong>Chris Cairns: What’s it like working with public-sector clients?</strong></p>
+
+<p><strong>Charlye Tran:</strong> It’s both interesting and challenging. Service design, although not an entirely new discipline (and often called by many different names), has helped the design community examine problem solving from a more holistic standpoint. Our clients have been very receptive to the results that’ve come from examining the problem space from both the frontstage and backstage points of view.</p>
+
+<p>By continuously working in tandem with clients and bringing them along in the journey, we learn from one another. Clients have the most insight into what their challenges are and should be treated as thought partners. We, as the practitioners and facilitators of the design process, are responsible for laying the framework where innovation and creativity can happen.</p>
+
+<p>This kind of safe space for creative problem solving may not always be readily available in the public sector. In many government agencies, teams are siloed, so it’s not always easy to make broad connections across departments. There can be some resistance to change, as you’d see in any large organization. However, once a team within an agency has shown a willingness to do things differently and this process has yielded positive results, it catches on and others in the agency are more willing to adopt a new way of problem solving.</p>
+
+<p><strong>Chris Cairns: Why is this work important to you?</strong></p>
+
+<p><strong>Charlye Tran:</strong> I’ve always wanted my work to help make a positive, lasting impact on people’s lives — whether that meant fitting a prosthetic leg for someone that allowed them to regain their independence or creating an app that helps airmen safely and efficiently maintain aircrafts. Traditional solutions-oriented problem solving that doesn’t holistically evaluate user challenges has led to a lot of redundancy and waste, while also leaving gaping holes in problems that need to be addressed.</p>
+
+<p>Although user-centered design has moved us in the right direction by focusing on users’ needs, in the civic tech space we also need to examine other challenges that users face like language barriers, the digital divide, or legacy systems that can’t handle spikes in traffic. All of these challenges can make interacting with the government difficult, and we need to ensure everyone benefits from the services that the government provides.</p>
+
+<p>Our solutions may not even directly affect the users and their behaviors, but because we’re looking at the problem space holistically, we’re more likely to identify the root cause and come up with more sustainable and impactful solutions.</p>
+
+<p>I feel like I’ve come full circle. Starting my professional career in the non-profit rehabilitation space allowed me to work directly with a set number of people. However, I feel like I’ve been given an opportunity to make a much larger impact by working in partnership with government agencies whose missions affect countless aspects of their constituents’ lives.</p>
+
+<p><strong>Chris Cairns: Charlye, thanks so much for being part of the team, we really appreciate your contributions. If you’re interested in learning more from Charlye or others about Skylight, <a href="/connect/contact/">we’d love to hear from you</a>.</strong></p>]]></content><author><name>Chris Cairns</name></author><category term="people and culture" /><category term="research" /><category term="design" /><category term="service delivery" /><category term="charlye tran" /><summary type="html"><![CDATA[Service Designer, Charlye Tran, wasn’t always a public-interest technologist, but her work always had a goal of delivering positive outcomes to people.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/blog/charlye_tran_interview/charlye-tran.svg" /><media:content medium="image" url="https://skylight.digital/img/blog/charlye_tran_interview/charlye-tran.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A human-centered approach to rebuilding the U.S. Refugee Admission Program</title><link href="https://skylight.digital/thoughts/blog/a-human-centered-approach-to-rebuilding-the-us-refugee-admission-program" rel="alternate" type="text/html" title="A human-centered approach to rebuilding the U.S. Refugee Admission Program" /><published>2021-05-08T00:00:00+00:00</published><updated>2021-05-08T00:00:00+00:00</updated><id>https://skylight.digital/thoughts/blog/refugee_admissions_research</id><content type="html" xml:base="https://skylight.digital/thoughts/blog/a-human-centered-approach-to-rebuilding-the-us-refugee-admission-program"><![CDATA[<p>I spent part of my childhood living in Italy when the memory of World War 2 was still very present. As a kid, I’d go for walks in the woods with my family on the weekends and we’d regularly encounter abandoned bunkers. It was a solemn reminder of what my family had only narrowly avoided. My paternal grandfather was from Dresden and fled to Britain as the Nazi party took control of Germany, eventually making his way to Canada and later the U.S. I literally wouldn’t be here if those countries hadn’t allowed him to enter.</p>
+
+<p>Today, over 26 million people worldwide, many fleeing dictatorships in Syria and Venezuela or civil wars in Africa and Asia, have been given refugee status by the United Nations High Commissioner for Refugees (UNHCR).  While less than 1% will end up in the U.S. refugee system, I believe the U.S. has a moral imperative to act and to take in as many people as possible each year.</p>
+
+<p>There’s been a lot of conversation in the U.S. and the world about how best to address the number of people forcibly displaced, and it remains a huge and growing humanitarian crisis.  That isn’t to say nothing is being done to address this challenge. Last summer, I had the chance to add my own piece to the puzzle, working on an issue that had been on my mind since 2016. When I saw Eric Hysen’s post on an Obama Alumni listserv saying he was heading up a project with the <a href="https://ncoc.org/">National Conference on Citizenship</a> (NCoC) on refugee admissions, I sent him an email that basically said: “Remember me? I really wanted to work on this topic with you four years ago.”</p>
+
+<p>A typical Skylight project has us working hand-in-hand with a government agency, but this was a four-month, non-profit project with a fixed-price contract. I had to convince Chris Cairns to lend me out as Service Design Lead and the sole Skylighter on this small team, which he was kind enough to agree to.</p>
+
+<p>So off I went, looking to learn as much as I could about the current state of the refugee admissions program, its health, and how to devise a roadmap of tactical recommendations for improving it and restarting the pipeline that had ground to a near standstill over the past four years. I had to find my research subjects — policy experts, advocates,  resettlement agencies, state-refugee coordinators, and refugees who’d been through the process — as well as build relationships and convince them to talk to me. I endeavored to earn the trust of former refugees over video and ensure they understood that they could drive the conversation as they shared what were often difficult episodes in their lives.</p>
+
+<p>During one of these calls, I met a refugee from Angola whom I’ll call Inês. She told me, “I was in a camp for 17 years, and I ate the same meal every day. The same thing they gave me the first day is what I had the last day.” Living in a refugee settlement is an intense experience where you really have no agency at all and are dependent on other people for everything. One of the big obstacles we had was showing policymakers that the challenges refugees face aren’t over after arriving in the U.S. Imagine being in this situation for years and, finally, you get to the U.S. but then are told in three months we want you to be completely independent. We want you to be able to speak English, have a job, and navigate our bureaucracy (sign up for health insurance or register for a driver’s license). These things aren’t necessarily easy even for people who’ve lived here their whole lives.</p>
+
+<p>Thankfully, I had some great guides into the process. Ariana Berengaut was Director of the <a href="https://global.upenn.edu/penn-biden-center">Penn Biden Center</a> (and former speechwriter for Anthony Blinken when he was Deputy Secretary of State under Obama). Eric Hysen was a senior fellow at NCoC, previously served as head of the U.S. Digital Service (USDS) team at the Department of Homeland Security (DHS), and was recently appointed the Chief Information Officer at DHS. Together, they knew a lot of the players in the space, and we had great access to helpful resources, for example, the <a href="https://refugeerights.org/">International Refugee Assistance Project</a> (IRAP), a group of lawyers who advocate for, and work directly with, refugees and asylees, and help to do things like draft sample legislation.</p>
+
+<p>Dana Chisnell at NCoC was also an invaluable resource as she was running Project Redesign. In addition to being an expert researcher and a great person to bounce ideas off of, Dana had terrific insights. She knew how to write about refugees without saying who they are and how to interview 20 people at once. While it’s often hard to get meaningful answers in a big group like that, Dana found ways of breaking down the conversation.</p>
+
+<p>Sarah Saltiel not only organized our teams’ 100+ interviews, she took incredible notes, and kept us all on track. Sarah also leveraged her previous experience in talent operations at USDS to recommend the use of federal hiring authorities to streamline the hiring of Refugee Officers. David Leftwich and Salma Mousa created a data model based on publicly-available pipeline information to help us quantify and prioritize the recommendations developed out of our research interview.</p>
+
+<p>In the end, bolstered by the acumen and superb wordsmithing from Policy Lead, Rosanna Kim, our small team was proud to <a href="https://www.ncoc.org/wp-content/uploads/2020/10/Final-Report-A-Roadmap-to-Rebuilding-USRAP.pdf">complete a report</a> with concrete steps a new administration could take in its first 100 days, year, and four years. A big part of that report was the refugee journey map. I was struck by how well received it was. I got feedback from people who had been working on refugee policy for years that they’d never seen this before — that they’d never looked at the whole process from the refugee perspective. Getting policymakers to see their policies from the vantage of those affected by them is something I’m constantly striving for as a UX researcher, and is the first step towards positive change.</p>
+
+<p class="border p-3"><img src="/img/blog/refugee_admissions_research/refugee-admission-journey-map.png" alt="A journey map of the refugee admission experience." /></p>
+
+<p class="caption">Source: Penn Biden Center/NCoC</p>
+
+<p>Every year, the President sets what’s called the Presidential Determination (PD), which says how many refugees, and from which countries, are allowed to come to the U.S. in that fiscal year. President Biden had pledged to increase the count from 15,000 last year to 62,500 refugee admissions in FY21 (125,000 in FY22 and increasing thereafter). After taking criticism for a proposed number that would keep admissions the same, the President announced that a new PD will be signed in May. Both Ariana (senior adviser to National Security Adviser Jake Sullivan) and Eric have taken roles in the administration. Having people with this depth of understanding about the challenges facing the U.S. Refugee Admissions Program (USRAP) in senior positions makes it more likely the proposed solutions will be implemented.</p>
+
+<p>The refugees I spoke with through this project are some of the most amazingly generous and resilient humans I’ve ever met. They’ve overcome incredible obstacles to come to the U.S. I feel like you want those kinds of people in your country: people who have the ingenuity and perseverance to overcome so much that has been stacked against them. If the current administration and those who value what immigrants bring to this country can help reset the national mindset about refugee resettlement, all of us living in this country would have so much to gain.</p>]]></content><author><name>Lara Kohl</name></author><category term="research" /><category term="design" /><category term="lara kohl" /><summary type="html"><![CDATA[Lara Kohl shares her experience designing a roadmap to rebuild the U.S. Refugee Admission Program, as part of a project with the National Conference on Citizenship.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/blog/refugee_admissions_research/refugee-kids-eating.svg" /><media:content medium="image" url="https://skylight.digital/img/blog/refugee_admissions_research/refugee-kids-eating.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Why plain language policies matter: Telehealth billing and coding during a pandemic</title><link href="https://skylight.digital/thoughts/blog/why-plain-language-policies-matter-telehealth-billing-and-coding-during-a-pandemic/" rel="alternate" type="text/html" title="Why plain language policies matter: Telehealth billing and coding during a pandemic" /><published>2021-04-19T00:00:00+00:00</published><updated>2021-04-19T00:00:00+00:00</updated><id>https://skylight.digital/thoughts/blog/plain_language_policies_telehealth</id><content type="html" xml:base="https://skylight.digital/thoughts/blog/why-plain-language-policies-matter-telehealth-billing-and-coding-during-a-pandemic/"><![CDATA[<p>When the Secretary for U.S. Department of Health and Human Services first declared a nationwide public health emergency (PHE) in April 2020, a flurry of telehealth policy changes followed.</p>
+
+<p>At the peak of the pandemic, the federal government announced these changes on a near-daily basis: <a href="https://www.cms.gov/about-cms/emergency-preparedness-response-operations/current-emergencies/coronavirus-waivers">waivers</a> and <a href="https://www.cms.gov/newsroom/fact-sheets/medicare-telemedicine-health-care-provider-fact-sheet">factsheets</a> and <a href="https://www.cms.gov/files/document/03092020-covid-19-faqs-508.pdf">FAQs</a> (oh my!).</p>
+
+<p>Many of these policies were created specifically to expand telehealth adoption and access. For instance, community-based providers — like health centers and rural health clinics — could now see patients from home. Doctors could practice more easily across state lines. Patients could use everyday technology, like WhatsApp and iMessage, to connect with providers during the emergency. Some of these initial policy changes were explicitly temporary and could change again.</p>
+
+<p>Perhaps most significantly, Medicare announced telehealth coverage for 144 additional medical services, matching payment rates (“payment parity”) for in-person care during the (ongoing) emergency period.</p>
+
+<p>Because telehealth reimbursements are often much lower than the same service provided in-person, payment parity’s an important incentive for medical practices to make telehealth available to more patients. That incentive has downstream public health benefits — with virtual options for care, patients can worry less about spreading or contracting COVID-19 while visiting the doctor.</p>
+
+<p>And while payment parity’s a temporary measure during COVID-19, Medicare’s <a href="https://www.cms.gov/newsroom/fact-sheets/final-policy-payment-and-quality-provisions-changes-medicare-physician-fee-schedule-calendar-year-1">2021 fee schedule</a> included the most significant changes to medical codes in 30 years, extending or making permanent some of the temporary rules.</p>
+
+<blockquote class="pullquote " cite="">
+  <p>A lot of this we learned from trial and error. It’s so hard.</p>
+
+  
+    <cite>
+      <strong>
+        
+        Medical biller with 13-years of experience</strong>
+    </cite>
+  
+</blockquote>
+
+<h2 id="billing-challenges-on-the-ground">Billing challenges on the ground</h2>
+
+<p>Billing and coding changes weren’t just significant from a policy standpoint, though. Throughout the pandemic, medical billers and coders — the administrative staff responsible for billing patients and submitting claims for reimbursement — have had to completely revamp the way they code, document, and bill for telehealth.</p>
+
+<p>I learned about some of these challenges while interviewing clinical staff in the field.</p>
+
+<p>A biller with 13 years of experience working at a small, federally-funded rural hospital in California, talked about difficulties keeping up with new rules and regulations, particularly in the early months of the pandemic, when reimbursement rules were nearly constantly in flux. “You can get one person to process [a claim] one way, and the next person will process it another way. It’s all up to interpretation. A lot of this we learned from trial and error. It’s so hard.”</p>
+
+<p>Sometimes a new rule would come out that applied to backdated claims, requiring staff to re-code. Sometimes those claims would get denied anyway, even after trying to carefully follow the new policies.</p>
+
+<p>Another challenge: Guidance for safety net providers, like rural health clinics and community health centers, was often lumped together with other providers, even when they had unique rules and regulations to follow. Interviewees at these clinics described digging through lengthy documents to find information specific to their needs — and, as one biller put it: “When you get to digging that’s when you get confused.”</p>
+
+<p>The lack of consolidated, user-friendly policy guidelines made understanding and implementing the new rules and regulations tricky across the board. Billers and coders relied on Medicare to understand what policies had changed and how to implement them, but there was no “single source of truth” for information. When documentation did exist, access was cumbersome — for instance, <a href="https://www.cms.gov/files/document/03092020-covid-19-faqs-508.pdf">100+ page PDFs</a> or a billing codes list <a href="https://www.cms.gov/Medicare/Medicare-General-Information/Telehealth/Telehealth-Codes">you must download to read</a>.</p>
+
+<p>There are massive consequences at stake. When providers can’t get reimbursed for their services, they risk shutting down. For the public — particularly vulnerable communities in hard-hit areas with very few options — this could mean losing access to healthcare during a pandemic, even when the policies <em>should</em> allow for much more flexible access than ever before.</p>
+
+<h2 id="making-policy-information-more-human-friendly">Making policy information more human friendly</h2>
+
+<p>The interviews with telehealth billing and coding staff left me wondering: How can we communicate vital information to people who need it for their everyday jobs, like medical billers and coders? How might we make it easier for clinical staff to find information relevant to their practice? What if we could distill and “translate” complex guidelines into actionable, accessible, plain language “how-tos”?</p>
+
+<p>Focusing on improvements to the digital delivery of policy information (only one piece of the puzzle!), what if policy guidelines were…</p>
+
+<ul>
+  <li>Accessible directly from the web (without extra barriers like large file downloads)?</li>
+  <li>Customized (for example, by provider type), with a clear, authoritative source of truth for each audience?</li>
+  <li>Easy to search?</li>
+</ul>
+
+<p>Medicare’s <a href="https://www.cms.gov/Medicare/Medicare-General-Information/Telehealth/Telehealth-Codes">List of Telehealth Services</a> became the only way for billers and coders to find all the billing codes covered during the COVID-19 emergency. The spreadsheet routinely requires updates to align with new billing policies, but it’s burdensome to use. It’s inaccessible directly from the web, requiring a download to view its contents. And the format restricts its usability further because it’s cumbersome to search — coders rarely need the entire universe of codes every time they want to look into coverage. There’s also the possibility that information is out of date, particularly when policies were changing every week.</p>
+
+<p>With difficult-to-use regulatory information in such high demand in the midst of a health crisis (it’s regularly one of the <a href="https://analytics.usa.gov/health-human-services/data/">top downloads across all of Health and Human Services</a>), I wondered: What if instead of a download-only spreadsheet, staff could search through Medicare’s list of covered telehealth services <a href="http://telecodes.org">directly on the web</a>?</p>
+
+<p class="border p-3"><img src="/img/blog/plain_language_policies_telehealth/telehealth-billing-codes-prototype.png" alt="Searchable billing codes prototype." /></p>
+
+<p class="caption">Searchable billing codes prototype I created</p>
+
+<p>And what if Medicare &amp; Medicaid policies were <a href="https://telehealth.hhs.gov/providers/policy-changes-during-the-covid-19-public-health-emergency/medicare-and-medicaid-policies/">described in plain language</a> and <a href="https://telehealth.hhs.gov/providers/billing-and-reimbursement/billing-medicare-as-a-safety-net-provider/">provider-specific</a>?</p>
+
+<p class="border p-3"><img src="/img/blog/plain_language_policies_telehealth/telehealth-billing-codes.png" alt="Screenshot from Telehealth.HHS.gov" /></p>
+
+<p class="caption">Screenshot from <a href="https://telehealth.hhs.gov">Telehealth.HHS.gov</a>, a Skylight project built with Health Resources and Services Administration.</p>
+
+<h2 id="why-this-matters">Why this matters</h2>
+
+<p>Simple changes to how policy information is delivered by the government can improve public health. A new billing code can mean a person with 15 years of experience suddenly has to spend significant time understanding basic requirements — time that’s essential during a national emergency.</p>
+
+<p>The pandemic, and the deluge of regulatory changes that followed (and which continue to evolve), demonstrates how critical it is to think about — and support — behind-the-scenes staff who are directly impacted by these changes.</p>]]></content><author><name>Abby Raskin</name></author><category term="content" /><category term="accessibility" /><category term="abby raskin" /><summary type="html"><![CDATA[Telehealth quickly needed to be implemented due to COVID-19, but updating billing codes to accept it was a bit more complicated.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/blog/plain_language_policies_telehealth/plain-language.svg" /><media:content medium="image" url="https://skylight.digital/img/blog/plain_language_policies_telehealth/plain-language.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lean software development, part 1: The three instances of lean</title><link href="https://skylight.digital/thoughts/blog/lean-software-development-part-1-the-three-instances-of-lean" rel="alternate" type="text/html" title="Lean software development, part 1: The three instances of lean" /><published>2021-04-18T00:00:00+00:00</published><updated>2021-04-18T00:00:00+00:00</updated><id>https://skylight.digital/thoughts/blog/lean_software_development_part_1</id><content type="html" xml:base="https://skylight.digital/thoughts/blog/lean-software-development-part-1-the-three-instances-of-lean"><![CDATA[<p>You’ve done the hard work of a modern day hero. You disbanded the cult of waterfall and led your intrepid party to the summit of Mt. Agile. There, at the top, you slayed the Scylla of Scrum and exorcised the demon of DevOps. But what if you now discover <strong>there’s another approach to software development you never even considered</strong>?</p>
+
+<p>Rest easy tired hero. There’s a good chance that if you’re doing agile software development well, then all is right in your IT kingdom.</p>
+
+<p>Of course, it’s healthy to challenge assumptions, and few are more sacrosanct than the assumption that agile software development is the one true way. It turns out there’s another path we can take; it leads to a nearby mountain, and we should consider its merits. That path is <strong>lean software development</strong>.</p>
+
+<p>I must confess, I had an unfair advantage when I began using lean software development. The advantage? I’m old. Let me amend that: I’m a wise sage, here to offer guidance.</p>
+
+<p>My journey began in the 1990s when I learned about <a href="https://en.wikipedia.org/wiki/Theory_of_constraints">theory of constraints</a>, used in manufacturing. This theory holds that processes, organizations, etc., are vulnerable because the least efficient process constrains the outcome. It affirms the idiom that a chain is no stronger than its weakest link. By the early 2000s, everyone recognized the problems with <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall software development</a>, but agile was not yet the juggernaut it is today. I wondered if anyone was using ideas from theory of constraints to develop software. There were attempts to apply theory of constraints to project management, and I discovered that the people most influenced by these advances in manufacturing were defining the practice of lean software development.</p>
+
+<p>I’ve now been developing software for 30 years, and I’ve spent the last 10 years leading teams using both lean software development and agile software development methods. Through this work, I’ve gained a deep understanding of the benefits of agile and lean, and the context in which each of these different approaches excels.</p>
+
+<p>In this three part series I’m going to share what I’ve learned so you can identify when you should be using elements of lean software development. But first, we need to address a terminology issue.</p>
+
+<p>The term “lean” is frequently used in information technology, but it doesn’t mean much on its own because we use “lean” to talk about three different things: lean <em>startups</em>, lean <em>product development</em>, and lean <em>software development</em>. Though they share common historical inspiration, these three uses of “lean” don’t have much to do with each other and are independent ideas and practices.</p>
+
+<h2 id="a-brief-history-of-lean">A brief history of “lean”</h2>
+
+<p>“Lean” as a specific technical term originates in the article, “Triumph of the Lean Production System,” by John Krafcik in 1988. John studied and described the evolution of manufacturing at Toyota from the 1930s to the 1980s and called the end result, in English, <a href="https://en.wikipedia.org/wiki/Lean_manufacturing">lean manufacturing</a>, which also became known as lean production and eventually just lean.</p>
+
+<p>In this technical use, “lean” means <strong>doing more with less</strong>. That’s to say doing more with fewer people, less effort, in a shorter time, in less space, without spare inventory, with less waste along the way, and ultimately with far less money.</p>
+
+<p>Lean manufacturing introduced several key solutions to the problems faced in manufacturing:</p>
+
+<ul>
+  <li>Clear identification of what the customer values</li>
+  <li>Mapping of all the steps that create customer value</li>
+  <li>Treatment of any steps that don’t directly create customer value as waste</li>
+  <li>Flow between steps (or pull), rather than pushing inventory from step to step</li>
+  <li>Just-in-time inventory</li>
+  <li>Batch size reduction</li>
+  <li>Continuous improvement until perfection (for example, batch size of 1, no waste)</li>
+</ul>
+
+<p>Lean manufacturing wasn’t just influential to manufacturers — the ideas quickly spread to other systems thinkers, and had a profound influence on <a href="https://en.wikipedia.org/wiki/The_Toyota_Way">The Toyota Way</a>, <a href="https://en.wikipedia.org/wiki/Six_Sigma">Six Sigma</a>, and <a href="https://en.wikipedia.org/wiki/Theory_of_constraints">theory of constraints</a>. Most importantly for our purposes here, many of the principles of lean manufacturing can be applied to the creation of software using <a href="https://en.wikipedia.org/wiki/Lean_software_development">lean software development</a>.</p>
+
+<h3 id="but-what-do-you-mean-by-lean">But, what do you mean by lean?</h3>
+
+<p>I encourage people not to use “lean” on its own. It’s too easy for your audience to be thinking about something completely different than what you’re intending to say. If you’re talking about lean software development, say so, don’t just say lean.</p>
+
+<p>To communicate clearly about lean software development, we need to clarify what we’re <em>not</em> talking about. We don’t mean a lean <em>startup</em> or lean <em>product development</em>.</p>
+
+<h2 id="the-lean-startup">The lean startup</h2>
+
+<p>The lean startup developed as an answer to the challenge of the bursting of the <a href="https://en.wikipedia.org/wiki/Dot-com_bubble">dot-com bubble</a> in the late 1990s. The internet bubble was created by too much investor money flowing into startups that didn’t have a viable business model.</p>
+
+<p>After the damage was done and the rubble was cleared, several influential thinkers began to deconstruct the source of so many non-viable startups. Alexander Osterwalder wrote a paper on business model validation in 2004, and turned it into the book, <em><a href="https://www.strategyzer.com/books">Business Model Generation: A Handbook for Visionaries, Game Changers and Challengers</a></em>, in 2010.</p>
+
+<p>It was Steve Blank in 2005 that gave the lean startup most of its terminology, including “customer development,” when he wrote his deconstruction of the bubble and prescription for change in, <em><a href="https://www.wiley.com/en-us/The+Four+Steps+to+the+Epiphany%3A+Successful+Strategies+for+Products+that+Win-p-9781119690375">The Four Steps to the Epiphany: Successful Strategies that Win</a></em>, in 2005.</p>
+
+<p>More recently, Eric Ries codified the current practices of the lean startup in 2011 with the best seller, <em><a href="http://theleanstartup.com/">The Lean Startup: How Today’s Entrepreneurs Use Continuous Improvement to Create Radically Successful Businesses</a></em>.</p>
+
+<p>The primary goal of the <a href="https://en.wikipedia.org/wiki/Lean_startup">lean startup method</a> is to create a viable business.</p>
+
+<p>The lean startup introduced several key solutions to the problems early startups face:</p>
+
+<ul>
+  <li>Exceptional clarity about the hypothesized business model with a business model canvas</li>
+  <li>Experimenting with minimally-viable products</li>
+  <li>Focus on the rate of validated learning</li>
+  <li>Data-driven decision making and actionable metrics</li>
+  <li>A very short and iterative Build-Measure-Learn cycle</li>
+  <li>Pivoting the business based on what’s learned</li>
+</ul>
+
+<p>The key difference from lean software development is that <strong>lean startup is a method for developing a viable business</strong>, not a process for building software.</p>
+
+<h2 id="lean-product-development">Lean product development</h2>
+
+<p>After World War II, Japan rebuilt its economy around excellence in manufacturing, but by the 1980s they hit a wall. Despite world-class-manufacturing capabilities, profitably-satisfying demand for manufactured goods was no longer the fundamental issue. The barrier to future growth of Japanese companies was generating more worldwide demand for their products, and, for that, they needed more desirable products.</p>
+
+<p>To create better products, Japanese companies took many of the core principles of lean manufacturing and adapted them for product development. The most obvious example of this was the <a href="https://www.shmula.com/the-toyota-product-development-system/344/">Toyota Product Development System</a>.</p>
+
+<p>It took time before these ideas spread, but some seminal books in the 2000s brought them to a wider audience. In 2004, Jeremy Liker wrote, <em><a href="https://evolvingagile.wordpress.com/2015/11/18/book-review-the-toyota-way/">The Toyota Way: 14 Management Principles from the World’s Greatest Manufacturer</a></em>, and in 2006 he wrote, <em><a href="https://www.mudamasters.com/en/lean-production/toyota-product-development-system-jmmorgan-jkliker-summary">The Toyota Product Development System: Integrating People, Process And Technology</a></em>, with co-writer James Morgan.</p>
+
+<p>Later, in 2009, Donald G. Reinersten wrote the very actionable guide, <em><a href="https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow">The Principles of Product Development Flow: Second Generation Lean Product Development</a></em>, putting these practices into the hands of more product developers.</p>
+
+<p>Lean product development provides techniques to get at and solve the core of a customer’s problem with a viable product solution:</p>
+
+<ul>
+  <li>Coming up with many alternatives, then rapidly exploring and testing them</li>
+  <li>A focus on learning first through rapid learning cycles and deliberately closing knowledge gaps</li>
+  <li>Extensive user research and listening to the voice of the customer</li>
+  <li>Value-stream mapping</li>
+  <li>Autonomous, empowered, and cross-functional product teams</li>
+</ul>
+
+<p>The key difference from lean software development is that <strong>lean product development is a method for creating innovative products</strong>, not a process for building software.</p>
+
+<h2 id="lean-software-development">Lean software development</h2>
+
+<p>Lean software development is an answer to a very specific challenge: How can we deliver software into production, with maximal time-to-market and profitability, in situations of certainty about what’s needed?</p>
+
+<p>Some smart software developers that faced this challenge realized how analogous the situation is to the manufacturing of physical products. An industrial engineer knows what they’re manufacturing — their primary challenge is to maximize manufacturing profitability. The best approach to use is lean manufacturing.</p>
+
+<p>Lean software development was born out of this analogy and the idea that the challenges of manufacturing physical products and software creation are similar. In 2003 Mary and Tom Poppendieck wrote, <em><a href="https://www.pearson.com/us/higher-education/program/Poppendieck-Lean-Software-Development-An-Agile-Toolkit/PGM73091.html">Lean Software Development: An Agile Toolkit</a></em>, and in 2006 they wrote <em><a href="https://www.pearson.com/us/higher-education/program/Poppendieck-Implementing-Lean-Software-Development-From-Concept-to-Cash/PGM94555.html">Implementing Lean Software Development: From Concept to Cash</a></em>.</p>
+
+<p>Lean software development is a process to deliver <em>known value</em> as quickly and profitably as possible:</p>
+
+<ul>
+  <li>Constantly ask, “Are users getting value from this yet?”</li>
+  <li>Map the value-creation stream</li>
+  <li>Limit the amount of <a href="https://en.wikipedia.org/wiki/Work_in_process">work in progress</a> (WIP)</li>
+  <li>Reduce waste in the process</li>
+  <li>Individual busyness isn’t a goal; optimize for the output of software into production</li>
+</ul>
+
+<p>Unlike lean startups and lean product development, <strong>lean software development is a method for building software when time-to-value and waste reduction are the greatest risks to be managed</strong>.</p>
+
+<h2 id="but-arent-agile-and-lean-the-same-thing">But aren’t agile and lean the same thing?</h2>
+
+<p>No, they’re not! I’m glad I pretended you asked. These terms are used loosely, but agile software development and lean software development are different answers to <strong>fundamentally different risks</strong>.</p>
+
+<p>Agile software development is a process to manage the risk of spending too much time building the wrong thing. Lean software development is a process to manage the risk of using time and money inefficiently when delivering software for well-understood problems.</p>
+
+<h3 id="so-should-you-be-agile-or-lean">So should you be agile or lean?</h3>
+
+<p>Because we unpacked the term lean, and made it clear what lean software development is and isn’t, you’re now better prepared to consider these two approaches to software development and to answer the question of agile or lean for your own team and projects.</p>
+
+<p>Of the three instances of lean we described, lean software development is the odd duck. It’s more directly derivative of lean manufacturing than either lean startup or lean product development, and the three lean approaches don’t go together very well. As a lean startup, using lean product development, you’re more likely to use agile software development than lean software development.</p>
+
+<p>So which software development approach should you be using? That’s an important question, and it’s the focus of the next post in this blog series. I’ll explain the challenges that led to the creation of agile and lean software development, where they overlap, and how they’re different. Most importantly, I’ll provide clear guidance on when you should focus on each approach. Then, in the last post in this series, I’ll give you practical steps and advice for putting lean software development into practice when it’s the right approach.</p>]]></content><author><name>Sean Johnson</name></author><category term="engineering" /><category term="product" /><category term="sean johnson" /><summary type="html"><![CDATA[Lean software development is an underutilized alternative to agile in the toolbox of modern software development methodologies. Here we discuss what it is and how it differs from lean startup and lean product development.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/blog/lean_software_development/starting-point.svg" /><media:content medium="image" url="https://skylight.digital/img/blog/lean_software_development/starting-point.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gianna Buda: Launching a civic tech career</title><link href="https://skylight.digital/thoughts/blog/gianna-buda-launching-a-civic-tech-career/" rel="alternate" type="text/html" title="Gianna Buda: Launching a civic tech career" /><published>2021-04-10T00:00:00+00:00</published><updated>2021-04-10T00:00:00+00:00</updated><id>https://skylight.digital/thoughts/blog/gianna_buda_interview</id><content type="html" xml:base="https://skylight.digital/thoughts/blog/gianna-buda-launching-a-civic-tech-career/"><![CDATA[<p><em>Gianna Buda joined Skylight in January 2021. She’s a software engineer who’s spent the past few years doing service-related work with mission-oriented organizations such as Coding it Forward and AmeriCorps. Gianna’s passionate about using technology in partnership with communities to improve the lives of others.</em></p>
+
+<p><strong>Ori Hoffer: Tell me about your path to Skylight?</strong></p>
+
+<p><strong>Gianna Buda:</strong> While studying computer science in college, I sought opportunities to make an impact in my community. I was involved in a local computer science program for 9th grade girls, where I created lesson plans and taught computer science concepts through Scratch, Python, and HTML/CSS. I also worked as a <a href="https://www.cs4ri.org/">CS4RI</a> (Computer Science for Rhode Island) Fellow at the Rhode Island Office of Innovation where I drafted a playbook for implementing a statewide computer science equity initiative.</p>
+
+<p>I’ve always been interested in using my computer science skills for good and found it challenging to find organizations whose mission and values aligned with mine. It wasn’t until my final year of college when I learned about civic technology. After graduating from Brown in 2018, I was a <a href="https://www.codingitforward.com/civic-digital-fellowship">Civic Digital Fellow</a> at the U.S. Department of State where I conducted user experience research on the foreign service transfer process and designed an aggregated information portal for foreign service employees.</p>
+
+<p>After the summer working at the State Department, I spent the next two years in service work. I worked in campus ministry, focusing on building community and supporting and advising students. The following year, I served as a residential advocate and volunteer coordinator at a homeless shelter for pregnant and parenting women and their babies through AmeriCorps.</p>
+
+<p>With a desire to get back into tech and an eagerness to continue serving people, I found about Skylight and am here now!</p>
+
+<p><strong>Ori Hoffer: How did you find out about Skylight?</strong></p>
+
+<p><strong>Gianna Buda:</strong> I learned about Skylight through a fellow Civic Digital Fellowship alum, Eric Richards, who shared Skylight’s job openings in our alumni network!</p>
+
+<p><strong>Ori Hoffer: Why did you decide to join?</strong></p>
+
+<p><strong>Gianna Buda:</strong> Having just completed a year of service with AmeriCorps, I knew I wanted to continue working in public service. After speaking with Eric about his experience and reading about Skylight’s mission and company values, I knew Skylight was where I belonged because of its commitment to improving the way our government serves us, especially those in the margins.</p>
+
+<p><strong>Ori Hoffer: You’ve only been here a few months, but what have you worked on so far?</strong></p>
+
+<p><strong>Gianna Buda:</strong> I’ve been working on a project for the Air Force that helps streamline airmxn in-processing. In the past few months, I supported user research and learned a lot about all that’s involved when an airmxn gets on base.</p>
+
+<p>I also worked on creating a web application for the Command Support Staff and other personnel who play a role in supporting airmxn throughout their in-processing.</p>
+
+<p><strong>Ori Hoffer: What do you see yourself accomplishing in the next six months?</strong></p>
+
+<p><strong>Gianna Buda:</strong> Once the in-processing project is completed, we’re going to abstract out code to make it reusable for future projects. This reusable codebase will include a mobile application and a CRUD web app. By creating this packaged, ready-to-use codebase, we’ll be able to support the Air Force’s efforts by helping other development teams quickly create and deploy mobile applications that ultimately help the overall mission!</p>
+
+<p><strong>Ori Hoffer: Why is this work important to you?</strong></p>
+
+<p><strong>Gianna Buda:</strong> The particular project I’m working on is important to me because I’m familiar with some of the challenges that come along with being in the military. Alleviating some burdens through the creation of these projects makes it a worthwhile and important endeavor.</p>
+
+<p>The bigger picture of creating better outcomes for the public through great government digital services is of extreme importance to me because its impact is huge. The government exists to serve the public and it takes a lot in order to do that well and effectively. By partnering with them through the creation of tools and digital services, not only do we impact the work they do, but we also make an impact on the public who receives those services.</p>
+
+<p><strong>Ori Hoffer: Anything you want to add that I didn’t ask?</strong></p>
+
+<p><strong>Gianna Buda:</strong> Working at Skylight has been wonderful. The meaningful work, supportive environment, and great people I get the opportunity to work with and learn from all make for an awesome workplace!</p>
+
+<p><strong>Ori Hoffer: Gianna, thanks so much for joining the team and sharing your early impressions with us! To our readers, if you’re interested in learning more from Gianna or others about Skylight, <a href="/connect/contact/">we’d love to hear from you</a></strong></p>]]></content><author><name>Ori Hoffer</name></author><category term="people and culture" /><category term="engineering" /><category term="gianna buda" /><summary type="html"><![CDATA[Skylight's Gianna Buda is just beginning her career as a civic technologist. She's bring a unique perspective to service design, having worked at the U.S. Department of State, as a Civic Digital Fellow, and AmeriCorps.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/blog/gianna_buda_interview/gianna-buda.svg" /><media:content medium="image" url="https://skylight.digital/img/blog/gianna_buda_interview/gianna-buda.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jordan Guinn: Making the impact of technology real</title><link href="https://skylight.digital/thoughts/blog/jordan-guinn-making-the-impact-of-technology-real/" rel="alternate" type="text/html" title="Jordan Guinn: Making the impact of technology real" /><published>2021-04-09T00:00:00+00:00</published><updated>2021-04-09T00:00:00+00:00</updated><id>https://skylight.digital/thoughts/blog/jordan_guinn_interview</id><content type="html" xml:base="https://skylight.digital/thoughts/blog/jordan-guinn-making-the-impact-of-technology-real/"><![CDATA[<p><em>Jordan Guinn joined Skylight in July of 2020. He’s a software engineer and one of our tech leads. In his career, Jordan’s quickly amassed a wealth of experience and leadership skills, which he’s now using to make a difference in the world.</em></p>
+
+<p><strong>Ori Hoffer: Tell me about your path to Skylight?</strong></p>
+
+<p><strong>Jordan Guinn:</strong> I’ve been in tech for several years, though never previously in any governmental space. At a couple previous companies, I quickly moved from an entry-level developer to a senior software engineer and a team lead, and at that point recognized that wherever I went next, I wanted to build and deliver something meaningful and impactful to someone. Enter Skylight!</p>
+
+<p><strong>Ori Hoffer: How did you find out about Skylight?</strong></p>
+
+<p><strong>Jordan Guinn:</strong> I was referred! I’ve known Adam Weber for several years, and he started working at Skylight several months before me. At some point I began looking for new opportunities, and I had known Adam to be doing meaningful work here at Skylight, so I decided to follow up and see if there might be something similar for me too!</p>
+
+<p><strong>Ori Hoffer: Why did you decide to join?</strong></p>
+
+<p><strong>Jordan Guinn:</strong> The projects that we take on are (and specifically the project I’m currently on) important and can have a real impact on people’s lived experiences in the world. That’s the kind of tech work I long for, and hope to always deliver on.</p>
+
+<p><strong>Ori Hoffer: What have you worked on so far?</strong></p>
+
+<p><strong>Jordan Guinn:</strong> Since I’ve started here at Skylight, I’ve been working on developing a <a href="/work/experience/ct-ece-reporter/">data collection tool</a> for the Early Childhood Education (ECE) arm of the Connecticut Office of Early Childhood (OEC), and will continue to see that through. Additionally, we’ll be adding data visualization and integration infrastructure on top of the data collected, ideally as a means to use it to improve outcomes of those children.</p>
+
+<p><strong>Ori Hoffer: What do you see yourself accomplishing in the next six months?</strong></p>
+
+<p><strong>Jordan Guinn:</strong> Over the next six months, we’ll be building out data visualization and integration infrastructure on top of our data collection tool, in order to provide OEC with a practical means of analyzing the data of the children they provide care for, and thereby improving the lives of those very children where possible.</p>
+
+<p><strong>Ori Hoffer: Why is this work important to you?</strong></p>
+
+<p><strong>Jordan Guinn:</strong> Successful engagements here at Skylight have a positive and meaningful impact on the real lives of real people, and honestly that’s all you can really ask for.</p>
+
+<p><strong>Ori Hoffer: Jordan, thanks so much for being part of the team, we really appreciate your contributions. If you’re interested in learning more from Jordan or others about Skylight, <a href="/connect/contact/">we’d love to hear from you</a></strong></p>]]></content><author><name>Ori Hoffer</name></author><category term="people and culture" /><category term="devops" /><category term="engineering" /><category term="jordan guinn" /><summary type="html"><![CDATA[For Jordan Guinn, getting into the civic-tech world with Skylight was a career change. Now that he's here, Jordan's discovering why our mission matters.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/blog/jordan_guinn_interview/jordan-guinn.svg" /><media:content medium="image" url="https://skylight.digital/img/blog/jordan_guinn_interview/jordan-guinn.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Leveraging collective insights for early care and education information systems</title><link href="https://skylight.digital/thoughts/blog/leveraging-collective-insights-for-early-care-and-education-information-systems/" rel="alternate" type="text/html" title="Leveraging collective insights for early care and education information systems" /><published>2020-11-12T00:00:00+00:00</published><updated>2020-11-12T00:00:00+00:00</updated><id>https://skylight.digital/thoughts/blog/early_childhood_info_systems_insights</id><content type="html" xml:base="https://skylight.digital/thoughts/blog/leveraging-collective-insights-for-early-care-and-education-information-systems/"><![CDATA[<p>For the past couple of years, we’ve been <a href="../leveraging-collective-insights-for-early-care-and-education-information-systems/#an-overview-of-our-work-with-the-connecticut-office-of-early-childhood">working with the Connecticut Office of Early Childhood</a> to improve their systems for managing early care and education data. We’ve <a href="../leveraging-collective-insights-for-early-care-and-education-information-systems/#lessons-learned-from-developing-ece-reporter-for-the-connecticut-office-of-early-childhood">learned a lot of valuable lessons</a> about what it takes to achieve success. Because we’re eager to share these lessons with others, we recently launched an initiative to create a <a href="../leveraging-collective-insights-for-early-care-and-education-information-systems/#creating-a-nation-wide-handbook-of-best-practices-for-early-care-and-education-information-systems">nation-wide handbook</a> of best practices for early care and education information systems. We’ve made great progress with the handbook, including <a href="../leveraging-collective-insights-for-early-care-and-education-information-systems/#early-findings-from-our-research">initial research findings</a>, but <a href="../leveraging-collective-insights-for-early-care-and-education-information-systems/#help-us-create-a-nation-wide-handbook-of-best-practices-for-early-care-and-education-information-systems">could use additional research participants</a> from state agencies in the early childhood space to help us make sure it’s as useful as possible.</p>
+
+<h2 id="an-overview-of-our-work-with-the-connecticut-office-of-early-childhood">An overview of our work with the Connecticut Office of Early Childhood</h2>
+
+<p>In 2019, we began working with the State of Connecticut’s Office of Early Childhood (OEC) on a <a href="/work/experience/ct-oec-digital-transformation/">number of initiatives under their Preschool Development Grant</a>. The initial engagement began with a <a href="/work/experience/ct-oec-website-redesign/">redesign of the OEC website</a> — the front door of the agency that provides early care and education information to many different types of constituents including families, child care providers and educators, researchers, and more.</p>
+
+<p>Throughout our first year working with OEC, we had the opportunity to do extensive research within the early care and education community in Connecticut, learning about the key pain points related to access to resources, data collection and information sharing, and state-wide collaboration. Through this research, we brought together insights to inform opportunity areas that would improve the experiences of families, child care providers, and OEC staff alike.</p>
+
+<p>In the spring of 2019, we turned our focus to OEC’s data collection system — the Early Childhood Information System (ECIS). ECIS was a platform that enabled providers to submit information to OEC about children who were receiving state and federal funding. This data is critical for OEC to report on the impact and reach of those funds, identify gaps in service, and understand more about the families they serve across their state. The ECIS platform wasn’t without its challenges, as we heard from early research with child care providers. The platform wasn’t intuitive to navigate, asked for a wealth of information without clearly-defined requirements, and resulted in a frustrating user experience for providers who are already managing an enormous amount of activities as well as their own child information management systems.</p>
+
+<p>Using a human-centered design approach, we conducted research with child care providers across the state around their experience with submitting data to the agency. In parallel, we worked with OEC to understand their data collection requirements and the key questions OEC needed to answer. Part of the work was helping OEC think strategically about the data it collects to answer important questions around childcare access, availability of services and resources across the state, and the impact of those resources, while also keeping providers’ needs for a user-friendly and useful process in mind.</p>
+
+<p>From the research, the team decided to develop a new interface and user experience for the data collection process — renamed as <a href="/work/experience/ct-ece-reporter/">ECE Reporter</a> (Early Care and Education Reporter), prioritizing OEC’s need to have complete data collected and providers’ need to provide data efficiently. In addition to employing a user-centered design approach, the team also used software development best practices and a modern technology stack to ensure smooth maintenance and sustainability for the agency.</p>
+
+<p>With the redesign, ECE Reporter provides an easy bulk upload for providers to share their monthly data to OEC using a template developed from reviewing common existing management systems and OEC’s data collection requirements. In addition, providers are able to use ECE Reporter to keep a roster of all students receiving state and federal funding, and in the near future, will be able to use the system to generate required reports.</p>
+
+<p class="mb-0"><img src="/img/blog/early_childhood_info_systems_insights/early-care-and-education-service-delivery-flow.svg" alt="Six stages of delivering early care and education services (discovery, intake, program delivery, reporting, monitoring, and assessment), from the perspective of families, programs, and the Office of Early Childhood." /></p>
+
+<p class="caption">The stages of delivering early care and education services — from the perspective of families, programs, and the Office of Early Childhood.</p>
+
+<p>The challenges we heard for child enrollment data collection, such as unclear data requirements and difficult site navigation, weren’t unique to ECIS. We also learned through our research that providers interact with other data collection systems with similar challenges, such as the professional development Registry, which requires overlapping data to ECIS, but isn’t connected to it.</p>
+
+<p>We found that these disparate data systems also pose challenges for OEC, making it difficult to see a holistic picture of how programs and services are provided to children and families within the state. Using ECE Reporter as a blueprint, our intent is to bring the data collection and ingestion process that we developed to other tools at the agency as well (such as the Registry). ECE Reporter data is the first of soon to be many data inputs that connect to a longitudinal data warehouse — so that OEC can aggregate, query, and monitor data that’s collected throughout the agency and answer their key questions.</p>
+
+<h2 id="lessons-learned-from-developing-ece-reporter-for-the-connecticut-office-of-early-childhood">Lessons learned from developing ECE Reporter for the Connecticut Office of Early Childhood</h2>
+
+<p>The path to the OEC’s ECE Reporter solution wasn’t an easy one. It required a lot of experiences, iterations, and pivots based on feedback and aligning around agency goals to get there. In reflection, we’ve highlighted some key takeaways or “lessons learned” from the engagement that we hope can be helpful to those embarking on, or currently exploring, similar challenges.</p>
+
+<h3 id="lesson-1-start-with-goals-and-questions">Lesson #1: Start with goals and questions</h3>
+
+<ul>
+  <li>Understanding both stakeholders and target audiences’ experiences is critical to balancing needs and requirements.</li>
+  <li>Learning stakeholder goals and key questions helps define data requirements, data collection processes, and aspirational data needs.</li>
+  <li>Having a clear strategic goal supports a near- and long-term vision, even if that long-term vision is constantly changing to reflect lessons learned throughout the process.</li>
+</ul>
+
+<h3 id="lesson-2-define-collaboration-and-partnership-relationships">Lesson #2: Define collaboration and partnership relationships</h3>
+
+<ul>
+  <li>Determining responsibilities and capacity of stakeholders is necessary for sustainability and long-term success.</li>
+  <li>Frequent but succinct communication with both stakeholders and a diversity of representatives from target audiences is helpful for gathering feedback and determining risks.</li>
+</ul>
+
+<h3 id="lesson-3-track-decisions-and-important-milestones">Lesson #3: Track decisions and important milestones</h3>
+<ul>
+  <li>Due to natural busy times in the field, such as the start of the school year, legislative sessions, etc., it’s important to have a clear roadmap and decisions captured to help keep everyone informed and the work moving forward.</li>
+</ul>
+
+<h3 id="lesson-4-be-adaptive-and-flexible-within-parameters">Lesson #4: Be adaptive and flexible within parameters</h3>
+<ul>
+  <li>With expected and unexpected learnings and circumstances, such as COVID-19, following an iterative development process allows for quick change and the ability to meet new expectations.</li>
+</ul>
+
+<h2 id="creating-a-nation-wide-handbook-of-best-practices-for-early-care-and-education-information-systems">Creating a nation-wide handbook of best practices for early care and education information systems</h2>
+
+<p>As we’ve engaged in this work, the researchers on the team wondered how we could share our learnings, as well as explore how other states have encountered similar (or different) challenges and approached solving them. In recent months and especially in light of the urgency the pandemic has had in the child care and education space, we’ve opened our efforts to learn more about the early care and education agencies across the country — including their programs, experiences, and pain points. Our goal is to create a handbook of early care and education best practices — specifically regarding data systems, interagency collaboration, and resourcing.</p>
+
+<p>Key objectives for this research include:</p>
+
+<ul>
+  <li>To learn more about structures, goals, processes, and challenges of different states’ early care and education departments/agencies</li>
+  <li>To learn more about early care and education programs and services, and how they’re administered and evaluated</li>
+  <li>To understand common data goals, needs, and challenges</li>
+  <li>To explore common solutions, models, and/or systems for meeting programs, services and data needs, and how successful they are</li>
+</ul>
+
+<p>As many organizations are currently capacity constrained in response to the pandemic, we’ve been able to connect with a handful of states who’ve been very willing to share their strategic agendas, lessons learned, and where they’re looking for their own support. We’ve heard an expressed interest in states desiring to know what others have tried and what’s worked. Our hope is that this handbook can aggregate the insights from states across the country, be a shared resource to draw from regarding early care and education infrastructure, and serve as the starting point for more interstate collaborations.</p>
+
+<h3 id="early-findings-from-our-research">Early findings from our research</h3>
+
+<p>Although we’re still early in the research process of developing the handbook, some interesting themes have started to emerge:</p>
+
+<h4 id="data-collection-and-reporting">Data collection and reporting</h4>
+<ul>
+  <li>It’s important to get to an unduplicated child count in order to use data to determine budget requests, service gaps, and how well the department/agency’s programs and services are serving children and families.</li>
+  <li>Many states are currently working towards a longitudinal data system.</li>
+  <li>Silos between teams, unconnected data systems, and limited IT capacity leads to inefficiencies and poor experiences for both providers and staff who need to meet rules and regulations.</li>
+</ul>
+
+<h4 id="interagency-collaboration">Interagency collaboration</h4>
+<ul>
+  <li>Departments/agencies across states are structured and set up differently regarding early care and education programs and services, with some consolidating education and others consolidating child care.</li>
+  <li>There are many efforts to coordinate interagency collaboration and data sharing, especially around strategic goals and initiatives. This allows state departments to gain a more holistic picture of how children and families are being served.</li>
+  <li>State departments/agencies are at varying stages in their strategic goals and plans due to funding, capacity, and partnerships.</li>
+  <li>Local community networks in some states are highly active and engaged, especially regarding resource referrals, local jurisdictions, and community needs.</li>
+</ul>
+
+<h4 id="improving-end-user-experience">Improving end-user experience</h4>
+<ul>
+  <li>There’s an effort by some states to create single applications (or “common apps”) to “put the burden on the system” and take the burden off of families to help them identify the best resources for their needs. However, there are significant issues regarding data sharing and privacy that restrict these efforts.</li>
+</ul>
+
+<h2 id="help-us-create-a-nation-wide-handbook-of-best-practices-for-early-care-and-education-information-systems">Help us create a nation-wide handbook of best practices for early care and education information systems</h2>
+
+<p>In our effort to produce a handbook, we’re eager to continue speaking with other states to learn about their experiences, challenges, and solutions. We’re looking for agencies who focus on early care and education to please reach out to our team and contribute to this collaborative handbook!</p>
+
+<p>We know these aren’t easy times and are super appreciative of any time taken to share your experiences. Our goal is to continue our research to finalize and distribute the handbook by early 2021. As part of any conversations we have, we’d be happy to share more about our work and learnings thus far, and will be sure to follow up with any of your needs or other ways we can help.</p>
+
+<p>If you or someone you know is interested in getting in touch to talk with us, please contact us at <a href="mailto:hello@skylight.digital">hello@skylight.digital</a>. We look forward to learning from you all and to sharing our handbook in the coming months!</p>]]></content><author><name>Victoria Suwardiman</name></author><category term="service delivery" /><category term="modernization" /><category term="data" /><category term="victoria suwardiman" /><category term="ashley treni" /><summary type="html"><![CDATA[Skylight's effort to create a nation-wide handbook of best practices for early care and education information systems, inspired by our work with the Connecticut Office of Early Childhood.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/blog/early_childhood_info_systems_insights/families-with-young-children-map.svg" /><media:content medium="image" url="https://skylight.digital/img/blog/early_childhood_info_systems_insights/families-with-young-children-map.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Key trends in mobile app development, part 2: Making sense of the trends</title><link href="https://skylight.digital/thoughts/blog/key-trends-in-mobile-app-development-part-2-making-sense-of-the-trends/" rel="alternate" type="text/html" title="Key trends in mobile app development, part 2: Making sense of the trends" /><published>2020-05-23T00:00:00+00:00</published><updated>2020-05-23T00:00:00+00:00</updated><id>https://skylight.digital/thoughts/blog/mobile_app_dev_trends_part_2</id><content type="html" xml:base="https://skylight.digital/thoughts/blog/key-trends-in-mobile-app-development-part-2-making-sense-of-the-trends/"><![CDATA[<p><em>In <a href="/thoughts/blog/key-trends-in-mobile-app-development-part-1-the-trends/">Part 1</a> of this two-part blog post series, we discussed two key trends that are shaping the landscape of mobile application development today. Here we discuss how to make sense of these trends with the three important takeaways that can guide our path forward and provide the technical approach we need to develop modern mobile apps.</em></p>
+
+<h2 id="key-takeaway-1-the-perennial-questions-remain-the-same">Key takeaway #1: The perennial questions remain the same</h2>
+
+<p>Despite the march of mobile app development progress and new approaches, the same perennial questions that’ve long guided the decision between mobile web and native app development still persist as the key deciding factors today.</p>
+
+<h3 id="seamless-updates-vs-app-store-discoverability">Seamless updates vs. app store discoverability</h3>
+
+<p>Distribution, distribution, distribution.</p>
+
+<p>Frequency of updates is a key factor that can push you away from mobile app store distribution towards the continual updates of mobile web, Progressive Web Apps (PWAs), and some mobile hybrids.</p>
+
+<p>Another important consideration here is existing user behavior. If your users are already conditioned to visiting your website on their mobile device, then there’s more flexibility. A mobile-app-like experience for the website visitor can leave the user never even considering the need for a native app. The website can also serve as an onramp to a PWA.</p>
+
+<p>If a significant portion of your user’s existing behavior is to first go to a mobile app store, and then resort to other channels when they don’t find what they need (phone calls, for example), then the mobile app store still represents a critical distribution point that mandates the presence of at least a hybrid mobile app.</p>
+
+<p>Ultimately, for a PWA, we have to ask: Will users understand that they can “install” the website and have it behave like a mobile app?</p>
+
+<p>Do note that Apple removed the formerly useful add-to-home-screen-mobile-web-action convenience, which is now a step removed behind the share dialog, making PWA “installation” on Safari/iOS less friendly and less likely.</p>
+
+<h3 id="availability-of-necessary-mobile-device-functions-and-sdks">Availability of necessary mobile device functions and SDKs</h3>
+
+<p>Can a given development approach access the needed mobile functionality to deliver on the product vision?</p>
+
+<p>The gap closes, but then the gap widens again. The web and hybrid development options presented here move forward in an attempt to close the gap between the platform software development kits (SDKs) that are available and what can be utilized with their approach. At times, the progress can be frustratingly slow, and it’s a game with no end, since each year mobile platforms continue to expand and innovate, providing an ever-moving target for non-native development approaches to chase.</p>
+
+<p>It’d be futile in this post to catalog the exact coverage of platform capabilities to various development approaches, as it’s dependent on so many implementation choice details. It’s changing all the time, and the particular SDKs that matter to the decision of which approach to use are entirely project dependent.</p>
+
+<p>We can, however, make some very broad and imprecise statements about the state of things in 2019 that provide some flavor about where things stand today.</p>
+
+<p><strong>Web and cross-platform access:</strong></p>
+
+<ul>
+  <li>Camera</li>
+  <li>Location</li>
+  <li>Maps</li>
+  <li>Calendar (write)</li>
+  <li>Motion sensing</li>
+  <li>Gestures</li>
+  <li>Payments</li>
+  <li>Push notifications (Android)</li>
+</ul>
+
+<p><strong>Native SDKs only (may or may not be wrapped and exposed in various approaches):</strong></p>
+
+<ul>
+  <li>Biometric authentication</li>
+  <li>Calendar (read)</li>
+  <li>Contacts</li>
+  <li>Voice assistants</li>
+  <li>NLP/machine learning/AI libraries and chips</li>
+  <li>Push notifications (iOS)</li>
+  <li>App loading screen</li>
+  <li>Messaging</li>
+  <li>Speech/voice</li>
+  <li>AR/VR</li>
+  <li>Native graphics (animation, image, game, shaders, PDF, etc.)</li>
+  <li>Bluetooth</li>
+</ul>
+
+<h3 id="users-perceived-feel-and-performance">User’s perceived feel and performance</h3>
+
+<p>Finally, a dominant question in mobile app development has always been: Can we make the app feel right to the user? What are the users expectations and tolerances? What message will our app’s feel send? Is it the message we want to send? These are important questions that product and technology people on mobile app development teams wrestle with when deciding on their mobile app development approach.</p>
+
+<p>The technical answers to these questions are a factor of providing a native or native-seeming user interface (UI) that follows the platform’s UI guidelines, and that looks and behaves like the system apps and other ubiquitous apps that users are also using on the platform. Performance is another key technical variable that strongly impacts users’ perception of the app, as is the app’s behavior in challenging and unusual network environments (is the app merely blank when there’s no or slow network, or is it clearly there, but reporting connectivity challenges, or is it fully functional with cached data?). Finally, the app taking advantage of, or ignoring the platform’s various extra-app affordances (notifications, lock screen, voice assistant, battery conservation, background services, watch support, calendar, contact, and app integration), can impact a user’s perception of the app as minimal or premium.</p>
+
+<p>The product answers to these questions are about the user, the brand, and the expectations the user brings to their interactions. Progress can be made in answering these questions with interviews, focus groups, competitive analysis, and various analytics and survey approaches.</p>
+
+<h2 id="key-takeaway-2-native-performance-and-feel-is-the-deciding-factor-in-the-private-sector">Key takeaway #2: Native performance and feel is the deciding factor in the private sector</h2>
+
+<p>Despite all the advances in non-native mobile development techniques, the user can still feel the difference between a native app, a cross-platform native app, a hybrid app, and a PWA or mobile website. They each have a different performance profile, a different match to platform expectations, and they each send a different message to the user. There’s not a bad vs. good message here, but they are different messages, and that message can often be a deciding factor in which approach is used.</p>
+
+<p>In evaluating flagship mobile apps in the private sector (largely healthcare, insurance, and financial services), and in discussions and community participation with development and product teams (largely informal), it’s clear that these brands universally chose to send a premium message with a native-first approach. That’s not to say every last bit is developed natively to the platform, but it’s clear that they pick the spots where it’s OK to use the web, and where they need to be seen as cutting edge, and they tend to make these distinctions clear to the user, usually not going to great lengths to disguise their web presence within their apps.</p>
+
+<h2 id="key-takeaway-3-there-are-smart-ways-to-do-native-app-development">Key Takeaway #3: There are smart ways to do native app development</h2>
+
+<h3 id="blended-approach">Blended approach</h3>
+
+<p>All the parts of a native app shouldn’t be created equally.</p>
+
+<p>In approximate terms, mobile app usage follows a Pareto distribution where 80% of the user interactions and value in mobile apps are focused around just 20% of the functionality.
+Development teams should look to optimize the performance and native feel of this 20% of the application, and can then consider supplementing the app with web views and other hybrid approaches for all the other edge cases and ancillary paths and functions that represent the other 20% of the app usage (but 80% of the total footprint).</p>
+
+<p>Users have proven to be quite tolerant of the non-native portions of native apps, especially when the separation is clear, concise, and sensical. In other words, don’t try to fake it. Make the critical user interactions native, and make the tertiary functions of the app clearly a mobile web experience.</p>
+
+<h3 id="thin-client-thick-api-architecture">Thin client, thick API architecture</h3>
+
+<p>Native mobile app development is often based on an architecture similar to the one shown below. Substantial code and logic, beyond what’s minimally needed to invoke the native platform UI and SDK services, is developed in a thicker than necessary client. Numerous services are accessed directly by the client in client dependent ways (be they formats, protocols, libraries, etc.) and data, configuration, user profiles, and so on are kept locally in the app in platform specific-data solutions. The end result is a relatively shallow, shared common application programming interface (API), and substantial functionality locked up in each client, in platform specific code and approaches.</p>
+
+<p><img src="/img/blog/mobile_app_dev_trends/traditional-mobile-architecture.svg" alt="Traditional mobile architecture that's heavy on the client layer." /></p>
+
+<p>This traditional native mobile architecture isn’t easy to avoid, and it isn’t due to poor architectural decisions by the development teams. It’s more attributable to the structure of the project, and the independent nature in which each mobile platform is targeted.</p>
+
+<p>At best, these native mobile clients tend to be developed as independent development streams done at the same time, in the same organization, but more often the two mobile platform teams are much more isolated than that. They tend to be isolated in time (develop for one platform first and another platform later) and by organization (develop against one platform internally and contract out the other, or contract out both to separate organizations).</p>
+
+<p>These project decisions can all but prohibit the development of a superior architecture for native development: the thin client, thick API architecture. With this approach, a single development team is tasked with developing a solution targeting multiple mobile platforms, exactly as you would do if you were using a mobile web, hybrid mobile, or native cross-platform development approach.</p>
+
+<p><img src="/img/blog/mobile_app_dev_trends/thin-client-thick-api-architecture.svg" alt="Modern mobile web architecture where the client layer is thin and the backend is thick from making heavy use of APIs." /></p>
+
+<p>A strong development team working on a native mobile development project under these more ideal conditions will be able to leverage a thin client, thick API architecture. They can minimize data storage and direct service access in the mobile clients, and keep the unshareable aspects of the native clients as thin as possible. They’ll be able to spend more time developing common services and business logic, used by both clients, and will agree on common formats, protocols, and service APIs. Ultimately, they’ll have both the motivation and the opportunity to avoid incidental, rather than essential platform differences.</p>
+
+<h2 id="making-an-informed-decision">Making an informed decision</h2>
+
+<p>We’re excited to expose these key mobile development trends and takeaways to decision makers, and expect that every development team and agency’s approach to fulfilling its mission can be improved by learning about trends in the development of mobile applications. There are also important, project-specific caveats to the development trends noted in this blog series that must be accounted for in the decision-making process.</p>
+
+<p>The trends identified here are having key impacts on mobile development in the private sector (primarily healthcare and financial services). Government decision-makers can’t afford to ignore these trends, since they directly impact the expectations users have of their mobile app offerings, but it’s also critical that each agency and project keep their unique mission in mind at all times. There are project-specific considerations that need to be factored into mobile app development decisions, such as:</p>
+
+<ul>
+  <li>Acceptability of various forms of biometric authentication</li>
+  <li>App accessibility to aging and disabled users</li>
+  <li>Users with older devices and technology</li>
+  <li>Other form factors (desktop, tablet, TVs, car) and environments (hospitals, libraries)</li>
+  <li>Rural/low/no-network bandwidth users</li>
+  <li>Development and sourcing limitations that are different than in the private sector</li>
+</ul>
+
+<p>Ultimately the agencies and their service providers are the experts on what impact these project-specific considerations may have, and on what other important considerations are missing from this list.</p>
+
+<p>The decisions we face when launching a new mobile app development initiative, or rationalizing an existing portfolio of mobile applications have never been more difficult than they are today. Let’s ensure these decisions are rooted in the mobile app development landscape as it stands today, and not in the past.</p>
+
+<div class="callout--note">
+  <h2 id="further-reading">Further reading</h2>
+
+  <p>The following is a list of additional reading about items contained in this blog series. These items aren’t a bibliography of sources, but instead are a set of potential next steps to explore.</p>
+</div>
+
+<h3 id="mobile-web-apps">Mobile Web Apps</h3>
+
+<ul>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Mobile_Web">Mobile Web on Wikipedia</a></p>
+  </li>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Responsive_web_design">Responsive web design on Wikipedia</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.invisionapp.com/inside-design/examples-responsive-web-design/">11 powerful examples of responsive web design</a></p>
+  </li>
+  <li>
+    <p><a href="https://uxplanet.org/adaptive-vs-responsive-web-design-eead0c2c28a8">Adaptive vs. Responsive Web Design</a></p>
+  </li>
+  <li>
+    <p><a href="https://darwindigital.com/mobile-first-versus-responsive-web-design/">Choose your strategy: Mobile-First Web Design vs. Responsive Web Design</a></p>
+  </li>
+</ul>
+
+<h3 id="progressive-web-apps">Progressive Web Apps</h3>
+
+<ul>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Progressive_Web_Apps">PWA on Wikipedia</a></p>
+  </li>
+  <li>
+    <p><a href="https://developers.google.com/web/progressive-web-apps/">Google / Chrome Progressive Web Apps</a></p>
+  </li>
+  <li>
+    <p><a href="https://indylogix.com/progressive-web-apps/">Progressive Web Apps: What is it all about?</a></p>
+  </li>
+</ul>
+
+<!-- - [A gallery of progressive web apps](https://pwa.rocks/) -->
+
+<h3 id="hybrid-mobile-apps">Hybrid Mobile Apps</h3>
+
+<ul>
+  <li>
+    <p><a href="https://developer.telerik.com/featured/what-is-a-hybrid-mobile-app/">What is a Hybrid Mobile App?</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.konstantinfo.com/blog/the-best-hybrid-app-development-frameworks/">The 7 Best Hybrid App Development Frameworks for 2018</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.websoptimization.com/blog/hybrid-mobile-app-frameworks/">The Top 5 Hybrid Mobile App Frameworks for 2018</a></p>
+  </li>
+</ul>
+
+<!-- - [Best Hybrid App Development Frameworks in 2018](https://blogs.systweak.com/2018/04/best-hybrid-app-development-frameworks/) -->
+
+<ul>
+  <li>
+    <p><a href="http://brookscanavesi.com/uncategorized/benefits-disadvantages-hybrid-mobile-applications/">Benefits and Disadvantages of Hybrid Mobile Apps</a></p>
+  </li>
+  <li>
+    <p><a href="https://facebook.github.io/react-native/">React Native</a></p>
+  </li>
+  <li>
+    <p><a href="https://cordova.apache.org/">Cordova</a></p>
+  </li>
+  <li>
+    <p><a href="https://ionicframework.com/">Ionic</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.appcelerator.com/mobile-app-development-products/">Titanium</a></p>
+  </li>
+  <li>
+    <p><a href="https://blog.phonegap.com/">PhoneGap</a></p>
+  </li>
+  <li>
+    <p><a href="https://framework7.io/">Framework7</a></p>
+  </li>
+  <li>
+    <p><a href="https://onsen.io/">Onsen UI</a></p>
+  </li>
+</ul>
+
+<h3 id="cross-platform-native-apps">Cross-platform Native Apps</h3>
+
+<ul>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Xamarin">Xamarin on Wikipedia</a></p>
+  </li>
+  <li>
+    <p><a href="https://visualstudio.microsoft.com/xamarin/">Visual Studio Tools for Xamarin</a></p>
+  </li>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Dart_(programming_language)">Dart on Wikipedia</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.dartlang.org/">Dart</a></p>
+  </li>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Flutter_(software)">Flutter on Wikipedia</a></p>
+  </li>
+  <li>
+    <p><a href="https://flutter.io/">Flutter</a></p>
+  </li>
+</ul>
+
+<h3 id="targeted-native-apps">Targeted Native Apps</h3>
+
+<ul>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">Kotlin on Wikipedia</a></p>
+  </li>
+  <li>
+    <p><a href="https://kotlinlang.org/">Kotlin</a></p>
+  </li>
+  <li>
+    <p><a href="https://developer.android.com/">Android Development Platform</a></p>
+  </li>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift on Wikipedia</a></p>
+  </li>
+  <li>
+    <p><a href="https://swift.org/">Swift</a></p>
+  </li>
+  <li>
+    <p><a href="https://developer.apple.com/ios/">iOS Development Platform</a></p>
+  </li>
+</ul>
+
+<h3 id="comparisons">Comparisons</h3>
+
+<ul>
+  <li><a href="https://blog.markgrowth.com/native-vs-web-vs-hybrid-apps-whats-the-difference-1df4c5e4bc50">Native vs. Web vs. Hybrid Apps — What’s the Difference? (2017)</a></li>
+</ul>
+
+<!-- - [Advantages and Disadvantages of Hybrid Mobile Apps Development (2017)](https://www.quape.com/hybrid-mobile-apps-development/) -->
+
+<ul>
+  <li>
+    <p><a href="https://www.valagroup.com/fi/2016/09/pros-cons-native-hybrid-web-apps/">Pros and Cons of Native, Hybrid and Web Apps (2016)</a></p>
+  </li>
+  <li>
+    <p><a href="http://blog.icreon.us/launch/native-vs-hybrid-development">Native vs. Hybrid App Development (2016)</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.infoq.com/articles/mobile-cross-platform-app-development">Pros and Cons of Cross-Platform Mobile App Development (2016)</a></p>
+  </li>
+</ul>]]></content><author><name>Sean Johnson</name></author><category term="mobile" /><category term="product" /><category term="engineering" /><category term="apis" /><category term="sean johnson" /><summary type="html"><![CDATA[The landscape of mobile app development has evolved greatly over the past decade. Here we discuss how to make sense of the trends discussed in Part 1 of our two-part blog post series.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/blog/mobile_app_dev_trends/mobile-app-dev-trends-2.svg" /><media:content medium="image" url="https://skylight.digital/img/blog/mobile_app_dev_trends/mobile-app-dev-trends-2.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Key trends in mobile app development, part 1: The trends</title><link href="https://skylight.digital/thoughts/blog/key-trends-in-mobile-app-development-part-1-the-trends/" rel="alternate" type="text/html" title="Key trends in mobile app development, part 1: The trends" /><published>2020-05-22T00:00:00+00:00</published><updated>2020-05-22T00:00:00+00:00</updated><id>https://skylight.digital/thoughts/blog/mobile_app_dev_trends_part_1</id><content type="html" xml:base="https://skylight.digital/thoughts/blog/key-trends-in-mobile-app-development-part-1-the-trends/"><![CDATA[<p>It’s been well over a decade since the launch of Apple’s App Store in July of 2008 and Google’s Android Market (now Google Play) one month later in August. A decade is a long time in any type of app development. Development technology has always been fast to evolve, and the rate of change is only increasing. Mobile app development isn’t immune to this, in fact, since 2008, mobile has been one of the main drivers of changes in how we develop applications.</p>
+
+<p>If you’re launching a new mobile app development initiative, or rationalizing an existing portfolio of mobile applications, it’s important that you don’t root your decision-making back in 2008, but instead understand the mobile app development landscape as it stands today.</p>
+
+<p>Skylight <a href="/work/experience/va-mobile-product-strategy/">recently conducted an evaluation of the mobile app development landscape for the U.S. Department of Veterans Affairs</a> as part of the their work to consolidate its diverse portfolio of mobile assets into a single flagship mobile app to better serve veterans. In conducting this evaluation, we identified two key trends and three key takeaways that help define a modern approach to mobile app development. Part 1 of this two-part blog series explains the key trends, and <a href="/thoughts/blog/key-trends-in-mobile-app-development-part-2-making-sense-of-the-trends/">Part 2</a> will cover the important takeaways. Together these trends and takeaways help guide the technical approach needed to develop mobile apps today.</p>
+
+<h2 id="key-trend-1-there-are-new-options-in-mobile-app-development">Key trend #1: There are new options in mobile app development</h2>
+
+<p>In the past, there was a binary decision to be made between developing native mobile apps for each mobile platform (at least iOS and Android, and possibly others) or relying on a responsive, mobile web application to bring your functionality to website visitors inside a mobile web browser. This decision was governed by the significant limitations of mobile web apps and mobile browsers, and by the significant time and expense of having multiple native mobile app development efforts.</p>
+
+<p><img src="/img/blog/mobile_app_dev_trends/old-binary-mobile-options.svg" alt="Old mobile app development options, which included either mobile web or native." /></p>
+
+<p>In the last several years, new developments have made this decision more complex. There are now hybrid options in between the two traditional choices.</p>
+
+<p><img src="/img/blog/mobile_app_dev_trends/new-multi-mobile-options.svg" alt="New mobile app development options, which include either mobile web, progressive web app, hybrid, cross-platform-native, or native." /></p>
+
+<p>It’s important to understand each of these new hybrid alternatives, as well as where things currently stand with the original options. Let’s look at each, moving from mobile web along the continuum to fully native mobile apps.</p>
+
+<h3 id="mobile-web">Mobile web</h3>
+
+<p>The viability of responsive mobile web apps has continued to increase, largely due to faster mobile device CPUs, better mobile JavaScript interpreters, and the increased robustness of web frameworks (for example, React and Angular) to build full-featured, client-centric web apps (client centrality is a requirement for Progressive Web Apps, see below).</p>
+
+<p>It’s never been easier, or less expensive (in both time and cost), to develop the equivalent functionality of a native app in a mobile web browser. But that’s not to say it’s particularly easy or inexpensive to do. It largely depends on the goal. The closer to a native app experience you try to achieve with mobile web technology, the closer the time and expense is to native app development. In fact, trying to achieve a perfect match to a native app experience on any given platform using mobile web technologies isn’t actually possible today, and the attempt will ultimately cost more than developing a native app for the platform.</p>
+
+<p>Why is there still a gap between what can be done on mobile web and with a native app? Though continued progress has been made in performance and in exposing device features to mobile apps such as location, audio/image/video capture, multi-touch, gesture and inertia input, app launching, and payments, there <em>hasn’t</em> been the same progress in making mobile web apps <em>feel</em> native to mobile users. Even if specific hardware access or platform SDK access <em>isn’t</em> required by an app, there <em>still</em> remains an insurmountable gap in feel that can jeopardize this approach.</p>
+
+<p>Ultimately user expectations may push us away from a pure web experience and dictate that we have a presence as an app on the mobile home screen, and that certain key mobile app functions be present, which brings us to our first hybrid option, the Progressive Web App (PWA).</p>
+
+<h3 id="progressive-web-apps">Progressive web apps</h3>
+
+<p>The next step towards embracing a mobile platform directly is to use recently-developed mobile web extensions, creating what’s known as a Progressive Web App. PWAs have been <a href="https://web.dev/progressive-web-apps/">embraced by the Android ecosystem</a>, and Apple has followed suit in the iOS ecosystem (but with less enthusiasm, particularly in the area of access to device notifications).</p>
+
+<p>The idea behind a PWA is to provide some important missing capabilities to mobile web apps that would otherwise require a native application:</p>
+
+<ul>
+  <li>Home screen presence</li>
+  <li>Resource caching, fast loading</li>
+  <li>An app load screen</li>
+  <li>Offline support</li>
+  <li>Service worker threads off of the main JavaScript user interface (UI) thread</li>
+  <li>Push notifications (with some limitations, including substantial ones on iOS)</li>
+</ul>
+
+<p>However, important gaps remain with PWAs that need to be considered by product teams:</p>
+
+<ul>
+  <li>Access to mobile app store distribution</li>
+  <li>Access to device hardware and platform software development kits (SDKs) outside the scope of the PWA definition</li>
+  <li>True native feel to the user experience (UX)</li>
+  <li>Native level of performance</li>
+</ul>
+
+<p>The PWA is still a relatively rare thing for users to encounter, and many users have no experience using them. It’s not clear that less-technically-savvy users will understand or be comfortable with the PWA installation sequence, which happens from your website, not in an app store. Ultimately user expectations may dictate distribution through an app store, which brings us to our next hybrid option, the hybrid mobile app.</p>
+
+<h3 id="hybrid-mobile-apps">Hybrid mobile apps</h3>
+
+<p>The next option along the hybrid spectrum brings us to the first choice that results in a traditionally-distributed mobile app. The hybrid mobile app approach is to take a client-centric mobile web app, a PWA essentially, but rather than running it in the device browser as a result of a website visit, instead it’s hosted in a web view inside a generated native container app. The resulting app is distributed to users via a mobile app store.</p>
+
+<p>Hybrid apps have been with us for some time, and there are numerous options and frameworks that target different web development technologies (Angular, React, and various mobile UI-centric frameworks). They also provide varying amounts of exposure to the platform native SDKs.</p>
+
+<p>Developing a hybrid mobile app uses web technologies (particularly HTML, CSS, and JavaScript) to create a non-web mobile app experience. This choice is often more about reusing developer skills rather than reusing an existing responsive website. There’s opportunity for common shared code and code reuse between a responsive mobile website and a hybrid mobile app, but it’ll be less than you expect if your intent is to fully embrace the creation of a near-native experience in the app.</p>
+
+<p>The primary advantage of hybrid apps are:</p>
+
+<ul>
+  <li>Access to app store distribution</li>
+  <li>Single cross-platform codebase</li>
+  <li>Access to additional device hardware and SDKs through application programming interface (API) wrappers</li>
+  <li>Options for developing targeted native extensions to tap into all of the device hardware and SDKs</li>
+</ul>
+
+<p>It’s worth noting that despite typically using just one codebase to target multiple mobile platforms (for example, iOS and Android), the more native the app feels, and the more native features the hybrid app takes advantage of, the more platform-specific code and styling will exist in the hybrid app, increasing its complexity.</p>
+
+<p>Many of the downsides of having a native app vs. utilizing the open web exist with a hybrid mobile app include:</p>
+
+<ul>
+  <li>Overhead of submission to multiple app stores</li>
+  <li>Gated release cycle through app stores</li>
+  <li>Subjugation of authority to the app store owner</li>
+</ul>
+
+<p>The gated release cycle is partially addressed with hybrid mobile apps. Significant portions of the app can be released to production without a release through the app store, as long as the native portions of the container app aren’t changed.</p>
+
+<p>Ultimately using a web view as the UI container shares most of the same drawbacks as with both PWAs and mobile websites in its inability to faithfully mimic the feel and performance of a native app. There remains an uncanny valley, and users know when they’re using web technology in an app.</p>
+
+<p>Ultimately user expectations around app performance and feel may dictate abandoning web technologies, which brings us to the last of the hybrid options, the cross-platform native app.</p>
+
+<h3 id="cross-platform-native-apps">Cross-platform native apps</h3>
+
+<p>The next option on the hybrid spectrum is to eschew web technology (namely HTML, CSS, and JavaScript) as the building block components of the UI, and instead embrace native app development.</p>
+
+<p>The key distinction of this option, however, is the rejection of independent development efforts to target each mobile platform (for example, iOS and Android). Rather than targeting the native UI SDK of the platform, using the native programming language of the platform, this option uses a cross-platform UI SDK and a cross-platform language to develop a single native app codebase that targets different platforms.</p>
+
+<p>One of the most viable cross-platform options has been <a href="https://en.wikipedia.org/wiki/Xamarin">Xamarin</a>. Xamarin is a proven solution from an independent company that’s owned by Microsoft, and is especially suited for Microsoft/.NET development teams coming to Android and iOS with a C# background.</p>
+
+<p>An emerging option, the <a href="https://en.wikipedia.org/wiki/Dart_(programming_language)">Dart language</a> with the <a href="https://en.wikipedia.org/wiki/Flutter_(software)">Flutter framework</a> is supported by Google, and used to develop their own cross-platform apps. This option has more technical risk due to a shorter track record and younger codebase, but is more suitable to development teams coming to Android and iOS mobile development with a dynamic language background, such as Python or Ruby.</p>
+
+<p>It’s worth noting that there are quite a few other mobile cross-platform native approaches focused on allowing cross-platform mobile development in particular languages (Java, Python, Ruby, etc.), but these come with substantial technical risk. The development communities are small and the project’s longevity tends to be either already-in-question or at long-term risk. Carefully weigh the risks when pursuing cross-platform native approaches that don’t have major backing from a substantial application vendor with a vested interest in its own cross-platform mobile apps, as is the case with Xamarin and Dart/Flutter.</p>
+
+<p>Ultimately, user expectations around native feel, or developer friction in not participating in the primary ecosystem for the platform, could lead to a decision to pursue traditional native app development.</p>
+
+<h3 id="targeted-native-apps">Targeted native apps</h3>
+
+<p>The final option is to develop full-native applications. A fully-native app targeting the mobile platform directly is a no-compromise solution that, in many cases, will not be any more expensive than the other options presented, except for the glaringly obvious point that it requires targeting two different mobile platforms with independent codebases, one for Android and one for iOS.</p>
+
+<p>In order to offset supporting just one codebase, the native approach must offer some benefits that are important to the product being developed. These benefits come in the form of native UI feel and responsiveness, and in the rich platform services available (SDKs for biometrics, voice assistants, speech, messaging, artificial intelligence, watches) and hardware capability access (screens, input mechanisms, sensors, GPUs, artificial intelligence chips) with no impedance mismatch. Native app development offers a friction free development approach that’s nestled in the heart of the platform’s development ecosystem.</p>
+
+<p>Unlike mobile web development and all the hybrid approaches discussed above, native app development doesn’t specifically aim to leverage development skills from other domains.</p>
+
+<p>For Android, this means development with <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">Kotlin</a>, Google’s preferred language for targeting the Android mobile platform. Java developers with some Android experience will easily transition to Kotlin.</p>
+
+<p>For iOS, native app development today uses the <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift programming language</a>, Apple’s preferred approach, though Objective-C/C++ developers with some iOS experience will pick up Swift swiftly.</p>
+
+<h2 id="key-trend-2-mobile-development-is-entering-a-third-phase">Key trend #2: Mobile development is entering a third phase</h2>
+
+<p>The initial phase of mobile development was a massive land grab to place products and brands into the greenfield space of mobile app stores and empty mobile home screens. The initial development options were largely limited to platform-specific native apps using Objective-C on iOS and Java on Android.</p>
+
+<p>After some years, organizations were able to evaluate their early mobile performance, and existing technical communities were able to pivot their focus to mobile. Concerns about native mobile development costs and time-to-market, and a desire to leverage existing skills led to a second phase of mobile development. This second phase sought time and cost reductions from cross-platform solutions, and existing skills reuse from hybrid apps. Both the perception and the reality of less expensive mobile development projects led to a proliferation, really a saturation, of mobile apps. This saturation produced fatigue on both sides of the marketplace, with the organizations and brands trying to manage so many mobile offerings, and with consumers facing an overwhelming choice in app stores and overflowing mobile launch screens on their devices.</p>
+
+<p>The third phase of mobile app development is a reaction to this app fatigue. After experimenting with dozens of single-purpose apps, many organizations are undergoing app consolidation around a premium flagship app. For their part, mobile users are downloading and using less apps than during the app proliferation that marked the second phase. There’s now an understanding that users will rarely use more than 25 apps. The new race is to be relevant enough to more discerning and experienced users to earn a spot in their top apps.</p>
+
+<p>Most users are approaching a decade of experience with smartphones. The emphasis of this third phase of app development is on building premium native apps that meet these discerning users increasing platform integration and quality expectations.</p>
+
+<p>Luckily, the timing does seem right for native development projects as both Apple and Google have successfully transitioned their developer ecosystems to Swift and Kotlin, respectively. These new languages are coupled with much refined and more powerful platform SDKs. Native app development has never been more capable or productive.</p>
+
+<p>In addition, the back-end development needed to support mobile apps has matured considerably. Mobile back-end platform-as-a-service (PaaS) and serverless options can be combined with a “thin client, thick API” architectures to drive additional developer productivity.</p>
+
+<h2 id="what-are-we-to-make-of-these-trends">What are we to make of these trends?</h2>
+
+<p>By digging into these two important trends, we’ve now laid the groundwork for making better decisions about modern mobile app development.</p>
+
+<p>The first trend is that we have more options to consider now than ever before in the form of hybrid approaches that blend web and mobile development to get us closer to delivering for the three major platforms — Web, iOS, and Android with a single codebase and technology stack. Working almost directly against this trend is the second trend we identified — app consolidation with far fewer applications per user and a significantly higher expectation of quality and native fit to the mobile device.</p>
+
+<p>The fact that two important trends in mobile app development seem to push us in two different directions is what makes this a challenging time. Do we pursue one of the new hybrid options to mobile development and deliver cross-platform experiences with less code? Or, instead, do we build a premium native app experience with the deep hardware and operating system integration that can earn a lasting spot on users’ shrinking home screens and attention spans? These questions are obviously not just technical, or even primarily technical, but the answers to them directly impact how we build mobile apps.</p>
+
+<p>In <a href="/thoughts/blog/key-trends-in-mobile-app-development-part-2-making-sense-of-the-trends/">Part 2</a> of this two-part blog series, we’ll shift gears to making sense of these trends with the three important takeaways that can guide our path forward and provide the technical approach we need to develop mobile apps today.</p>]]></content><author><name>Sean Johnson</name></author><category term="mobile" /><category term="product" /><category term="engineering" /><category term="apis" /><category term="sean johnson" /><summary type="html"><![CDATA[The landscape of mobile app development has changed considerably over the past decade. Here we discuss the two key trends that are shaping how mobile applications are developed today.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/blog/mobile_app_dev_trends/mobile-app-dev-trends-1.svg" /><media:content medium="image" url="https://skylight.digital/img/blog/mobile_app_dev_trends/mobile-app-dev-trends-1.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Learning techniques for public servants</title><link href="https://skylight.digital/thoughts/blog/learning-techniques-for-public-servants/" rel="alternate" type="text/html" title="Learning techniques for public servants" /><published>2020-05-21T00:00:00+00:00</published><updated>2020-05-21T00:00:00+00:00</updated><id>https://skylight.digital/thoughts/blog/public_servant_learning_techniques</id><content type="html" xml:base="https://skylight.digital/thoughts/blog/learning-techniques-for-public-servants/"><![CDATA[<p>This article is for the thousands of public servants who don’t seek the limelight, who are rarely mentioned in the news, and who keep the ship of state fully rigged and under sail.</p>
+
+<p>It’s easy to malign government program managers, CIOs, and CTOs as “Washington Bureaucrats,” because it’s much easier to see their failures than to appreciate their successes. Washington rarely publishes stories about agencies not having a data breach, or an upgrade to a government system succeeding with no disruption.</p>
+
+<p>But every one of those people is doing something that Congress, as the elected representatives of the people, asked them to do.</p>
+
+<p>Let’s consider for a minute their jobs in 2018. Most of these people are smart, but they’re busy. They may have families. Their jobs may be burdened by regulation in ways that those of information workers in the business world aren’t. Their workplaces may have accumulated years of “technical debt” — that is, years of underinvestment in technology or simply process change.</p>
+
+<p>But even more deeply, imagine how their job has changed since 1968, 1988, or 2008.</p>
+
+<table class="post-table">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Things a program manager had to worry about…</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1968</td>
+      <td>Riots. (No, seriously — riots.) Computers may have existed at NASA.</td>
+    </tr>
+    <tr>
+      <td>1988</td>
+      <td>COBOL-based computers running in the back office, never touched or   seen by the public.</td>
+    </tr>
+    <tr>
+      <td>2008</td>
+      <td>Websites. Computerization of the entire workforce, but usually not   the public-facing part. Keeping the laptops running. Hackers attacking   servers.</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>Hackers backed by botnets and sophisticated software and the   financial and scientific resources of entire states. Denial of service   attacks that may cost lives. Increased violent weather due to global warming.   Sophisticated phishing attacks based on stolen data. Increased dependence of   all machines on computers and the internet. Serving a public that expects   forms to be online. Fairly serving a public that largely has smartphones,   while a major percentage remains unconnected. Hackers attacking power plants,   phones, and household appliances.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>In fact, in 2018 many government programs must now plan for things that are completely new to them:</p>
+
+<ol>
+  <li>Information is now transmitted to smartphones.</li>
+  <li>More physical objects than ever before are computerized and connected via the Internet of Things.</li>
+  <li>Anything that can be hacked, will be hacked.</li>
+  <li>New technologies, which seem to require an advanced degree just to understand, represent opportunities and risks for the public servant.</li>
+</ol>
+
+<p>What’s a poor public servant to do?</p>
+
+<p>Here are our recommendations.</p>
+
+<h2 id="read-deeply-and-broadly">Read deeply and broadly</h2>
+
+<p>One helpful technique that’s sometimes valuable is to subscribe to a magazine, but just for one year. For example, about every five years I subscribe to “Sky and Telescope.” This way, I can quickly recover some basics about the state-of-the-art of amateur astronomy. However, I can’t afford and don’t have the time to read a journal in every subject that I’m interested in.</p>
+
+<p>When we worked together in government, Noah Kunin read all of the Federal Acquisition Regulation (FAR), and all of the official guidance related to it and cybersecurity. He was possibly the only person to ever have done so. This allowed him to discern that which was merely customary from that which was actually regulated, and often there was a surprisingly vast difference between them.</p>
+
+<h2 id="make-10-of-your-learning-skill-based">Make 10% of your learning skill-based</h2>
+
+<p>This seems to require a lot of effort. For example, suppose you want to learn about the Internet of Things. You should read a lot about this. But after you’ve spent 20 hours reading about it, you really should spend 2 hours doing it. It isn’t obvious how to do this, and technologists such as ourselves should make it easier.</p>
+
+<p>Here’s what I mean: You need to go to a “maker space,” or a conference, or a hackathon, and try to actually use a non-computer device that’s radio connected to the internet. For example, this can be done with a microcontroller and various printed circuit boards you can plug onto them for about $35. You can make something as simple as a remote temperature sensor.</p>
+
+<p>Now, to those of you who don’t know anyone who can explain this to them, it may sound impossible. You might not know where to begin. You wouldn’t know whom to ask. However, if you aren’t too shy, you can eventually use Google to find people who will eagerly — sometimes very eagerly — lead you to what you need to do.</p>
+
+<p>However, I assure you the benefits will be tremendous. Suddenly, a veil will be lifted from everything that you’ve read. Your mind will constantly be saying, “Oh, I see now, that article about the IoT is just like what I’m doing here, only using longer-range radios, or custom boards, or controlling more stuff.” The next time you’re in discussions with a contractor, you’ll be better able to ask intelligent questions, like “Why can’t this be done with just an Arduino Nano and Bluetooth LE?”</p>
+
+<p>Another, perhaps easier example, is 3D printing. 3D printing is revolutionary. However, when it’s first described, it’s hard to understand not what it does, but what its limitations are. “You mean this machine can literally make any shape I want?” “YES!” “You mean I can 3D print a motorcycle?” “Well no, today we can’t print metal, and we can’t print electronics, and we can’t print anything bigger than 10 inches on a side, and making a part even that big can take 48 hours, and our plastics melt at a low temperature,” and so on. Spending an afternoon using a 3D printer illuminates its limitations far better than an afternoon of reading about it.</p>
+
+<p>More fundamental than these examples in 2018 is simply computer programming. Everyone should learn to code, even if only for a weekend. The improvement in your understanding and your ability to ask intelligent questions will astound you. In 2018, everyone needs to learn “Reading, writing, arithmetic — and coding.” You don’t need to become good enough at coding to be a professional. But if your job is to <em>work with</em> professionals programmers, you’ll earn their respect by being able to program at least a little.</p>
+
+<p>If you learn just a tiny bit of computer programming, light bulbs will start going on over your head — I promise. Please, put some money down on it by spending a day or two learning to code a little; if you find it wasted time, you’ll have my sincere apology.</p>
+
+<h2 id="cultivate-human-knowledge-resources">Cultivate human knowledge resources</h2>
+
+<p>Some things are better learned from a person than from a book. It’s valuable to read a lot in order to be able to ask intelligent questions. But there comes a point when any intelligent reader is going to have “Why doesn’t…” and “What if…” questions, the answers to which may be buried in the books and articles you read, but may be hard to find.</p>
+
+<p>This is where a human expert is really helpful. When you ask a question which demonstrates confusion, they can quickly lead you to the light. If you’ve spent nine hours reading, it’s probably time for you to spend one hour at a meetup, a conference, or with some expert you can buttonhole.</p>
+
+<p>Among the best ways to do this is to attend a hackathon, where you join a team doing a real (though very small) project. You may have to carry water; don’t worry — you’ll still be welcome, except by the small percentage of people who are extremely competitive.  If that seems like too big a leap, find a relevant “meetup” in your area and attend that.</p>
+
+<h2 id="be-skeptical-but-not-jaded">Be skeptical but not jaded</h2>
+
+<p>As in all human endeavors, there are fashion trends and fads. At any given moment, there are words and concepts hyped beyond reality. “Blockchain” and “Artificial Intelligence” are such words at the time of this writing. It’s wise to take claims with a grain of salt.</p>
+
+<p>Recently my study partner and I considered quantum computing. I personally felt that quantum computing was such a fad — that it was overhyped, or possibly even simple snake oil. In response to that, we bought a textbook and started working through some of the problems, and our position shifted. We now believe quantum computing will probably (though not definitely) be important — 20 years from now.</p>
+
+<p>Spend a little time — often just a few hours is sufficient — doing the math, and enlightenment will follow.</p>
+
+<p>The antidote to snake oil is elbow grease.</p>
+
+<h2 id="learn-to-diagram-more">Learn to diagram more</h2>
+
+<p>I can’t think without a pen in my hand. When I worked as a Fed, I was surprised that I was often the only person eager to go to the whiteboard. I don’t know why this is. Knowledge workers must have good language skills, but not exclusively language skills.</p>
+
+<p>Processes are hard to understand without diagrams. You can find some rich discussion on “The Feynman Technique” on the internet, which boils down to “Make sure you can explain the idea in simple language to a child.” I’d amend this, however, to say “Make sure you can draw a diagram of this that you can explain to an executive.”</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Force of habit and lack of knowing how to begin prevent you, the hard working public servant, from following these suggestions. I hope I’ve convinced you, however, that the return on investment for your time will be tremendous if you follow these simple five suggestions.</p>]]></content><author><name>Robert Read</name></author><category term="training" /><category term="robert read" /><summary type="html"><![CDATA[Five learning techniques that public servants can employ to perform their jobs more effectively in today's complex technological environment.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/blog/public_servant_learning_techniques/learning-techniques.svg" /><media:content medium="image" url="https://skylight.digital/img/blog/public_servant_learning_techniques/learning-techniques.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

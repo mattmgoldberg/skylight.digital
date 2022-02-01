@@ -1,0 +1,2699 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://skylight.digital/projects.xml" rel="self" type="application/atom+xml" /><link href="https://skylight.digital/" rel="alternate" type="text/html" /><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/projects.xml</id><title type="html">Skylight - Digital government consulting | Projects</title><subtitle>Skylight is a digital consultancy using design and technology to help government agencies deliver better public services.</subtitle><entry><title type="html">Strategizing a better mobile user experience for vets</title><link href="https://skylight.digital/work/experience/va-mobile-product-strategy/" rel="alternate" type="text/html" title="Strategizing a better mobile user experience for vets" /><published>2022-02-01T04:22:24+00:00</published><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/work/experience/va_mobile_product_strategy</id><content type="html" xml:base="https://skylight.digital/work/experience/va-mobile-product-strategy/"><![CDATA[<article class="project-case-study grid-container maxw-md">
+  <header class="project-case-study-header">
+    <div class="project-case-study-title-tag header-display-5">
+      Veterans Affairs
+    </div>
+    <h1 class="project-case-study-title header-display-2 header-page">
+      Strategizing a better mobile user experience for vets
+    </h1>
+  </header>
+
+  <div class="project-case-study-content">
+    <h2 class="sr-only">Summary</h2>
+    <div class="project-case-study-summary">
+<p>The Veterans Affairs (VA) wanted to explore options for improving the mobile user
+experience of the new VA.gov. We gave them a proposed mobile product strategy
+based on a combination of our own expertise and extensive research.</p>
+</div>
+
+    
+
+    <img class="project-feature-image  " src="/img/projects/va_mobile_product_strategy/va-flagship-mobile-app.svg" alt="A veteran using a VA flagship mobile app." title="A veteran using a VA flagship mobile app." />
+
+    <h2>The challenge</h2>
+    
+<p>Many organizations are now beginning to deliver mobile experiences through what’s
+called a “flagship” mobile app. The purpose of a flagship mobile app is to consolidate
+multiple use cases from multiple user personas into one premiere mobile app.
+In other words, it’s either the only or the default mobile app for a brand.</p>
+
+<p>Recognizing this trend, the VA realized there might be an opportunity to further
+improve the mobile experience of VA.gov by offering a flagship mobile app. They
+sought guidance on how best to employ a unified, multi-channel, cross-platform
+approach for delivering the most common services used by veterans.</p>
+
+
+    <h2>The solution</h2>
+    
+<p>To address this challenge, we augmented on own expertise on mobile app delivery
+with extensive design and technical research. This research process involved:</p>
+
+<ul>
+  <li>Performing a comparative analysis of flagship mobile apps across VA-like
+industries to understand the landscape of options available to users, as well as
+common patterns and solutions</li>
+  <li>Conducting a technical teardown of flagship mobile apps across VA-like industries
+to understand the technical approaches used by other organizations when creating
+flagship mobile apps</li>
+  <li>Interviewing several organizations to gain insight into how they’ve approached
+creating their flagship mobile apps</li>
+  <li>Interviewing veterans to understand their mobile experience needs</li>
+  <li>Analyzing and synthesizing our research data into a comprehensive report
+that detailed our methodology, findings, and recommendations for what the
+VA.gov’s mobile product strategy should be going forward</li>
+</ul>
+
+<p>Our report also provided the VA with a definition of a minimum viable product
+(MVP) for their own flagship mobile app, a decision framework to guide choices
+among mobile app development options (such as mobile web, progressive web application,
+hybrid, cross-platform native, or native), and a flexible mobile architecture approach
+based on pattern we call a “thin client, thick API architecture.”</p>
+ 
+    <div>
+    <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-0">
+    <a data-toggle="collapse" href="#accordionCollapse-0" aria-expanded="false" aria-controls="accordionCollapse-0" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Team
+    members</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-0" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-0">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      
+      <ul class="has-col">
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#sean-johnson">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/sean-johnson.jpg" alt="Photo of Sean Johnson" />
+              </div>
+              <span>S. Johnson</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#chris-cairns">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/chris-cairns.jpg" alt="Photo of Chris Cairns" />
+              </div>
+              <span>C. Cairns</span>
+            </a>
+            
+          </span>
+        </li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-1">
+    <a data-toggle="collapse" href="#accordionCollapse-1" aria-expanded="false" aria-controls="accordionCollapse-1" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Technologies used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-1" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-1">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Zoom</span></li>
+        
+        <li><span class="approach-item">Google Workspace</span></li>
+        
+        <li><span class="approach-item">Git / GitHub</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-2">
+    <a data-toggle="collapse" href="#accordionCollapse-2" aria-expanded="false" aria-controls="accordionCollapse-2" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Practices
+    used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-2" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-2">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Primary research</span></li>
+        
+        <li><span class="approach-item">Secondary research</span></li>
+        
+        <li><span class="approach-item">Comparative analysis</span></li>
+        
+        <li><span class="approach-item">User interviews</span></li>
+        
+        <li><span class="approach-item">Lean startup</span></li>
+        
+        <li><span class="approach-item">Research analysis and synthesis</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+
+    </div>
+
+    <h2>The results</h2>
+    
+<ul>
+  <li>Delivered the project under the federal procurement micropurchase threshold of $10,000</li>
+  <li>Performed a comparative analysis of 17 flagship mobile apps, including Bank of America,
+USAA, Capital One, Mayo Clinic, Zocdoc, FollowMyHealth, and more</li>
+  <li>Defined an MVP roadmap that included nearly 30 key user actions or features
+(for example, biometric login, prescription refill, and claims status) and which of
+these should be delivered natively or via the mobile web</li>
+  <li>Published the report in the open and with no copyright, making it free to anyone
+who wants to learn from and reuse the content</li>
+</ul>
+
+    
+  </div>
+
+  
+  <div class="project-case-study-footer">
+       
+    <a class="work-example-cta" href="https://github.com/skylight-hq/VA-Micropurchase-Repo/blob/master/2018-13-2018_VA%20Flagship_Mobile_Application/Deliverables/Skylight%20Digital%20LLC/va_flagship_mobile_application_analysis_summary.md" role="button">See the report</a>
+     
+  </div>
+  
+
+  <a class="post-footer__see-all" href="/work/experience/">
+    <i class="fal fa-long-arrow-left mr-2" aria-hidden="true"></i>See all case studies
+  </a>
+</article>
+
+<section class="page-subfooter">
+  <div class="page-subfooter-content">
+    <div class="page-subfooter-header-row">
+      <div class="page-subfooter-header-col">
+        <h2 class="page-subfooter-heading">Let’s deliver together.</h2>
+      </div>
+    </div>
+
+    <div class="page-subfooter-text-row">
+      <div class="page-subfooter-text-col">
+        <p>However bold the idea or complex the problem, we work with you  <br class="linebreak" />to deliver results in weeks, not years.</p>
+
+      </div>
+    </div>
+
+    
+    
+
+    <div class="page-subfooter-cta-row">
+      <div class="page-subfooter-cta-col">
+        <a href="/connect/contact/" role="button">
+          <span>Contact us</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>]]></content><author><name></name></author><category term="microconsulting" /><category term="apis" /><category term="veterans" /><category term="healthcare" /><category term="sean johnson" /><category term="chris cairns" /><summary type="html"><![CDATA[A product strategy for improving the mobile user experience of VA.gov.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/projects/va_mobile_product_strategy/va-flagship-mobile-app.svg" /><media:content medium="image" url="https://skylight.digital/img/projects/va_mobile_product_strategy/va-flagship-mobile-app.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Creating a knowledge platform for improving healthcare</title><link href="https://skylight.digital/work/experience/va-diffusion-marketplace/" rel="alternate" type="text/html" title="Creating a knowledge platform for improving healthcare" /><published>2022-02-01T04:22:24+00:00</published><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/work/experience/va_diffusion_marketplace</id><content type="html" xml:base="https://skylight.digital/work/experience/va-diffusion-marketplace/"><![CDATA[<article class="project-case-study grid-container maxw-md">
+  <header class="project-case-study-header">
+    <div class="project-case-study-title-tag header-display-5">
+      Veterans Affairs
+    </div>
+    <h1 class="project-case-study-title header-display-2 header-page">
+      Creating a knowledge platform for improving healthcare
+    </h1>
+  </header>
+
+  <div class="project-case-study-content">
+    <h2 class="sr-only">Summary</h2>
+    <div class="project-case-study-summary">
+<p>The Veterans Affairs (VA) needs a way to systematically identify and spread the
+adoption of proven clinical and administrative practices across its healthcare
+delivery network. We were brought in to build a knowledge management platform
+in order to achieve this important goal.</p>
+</div>
+
+    
+
+    <img class="project-feature-image  " src="/img/projects/va_diffusion_marketplace/diffusion-marketplace.svg" alt="Doctors, administrators, and veteran patients interacting through digital panes." title="Doctors, administrators, and veteran patients interacting through digital panes." />
+
+    <h2>The challenge</h2>
+    
+<p>The VA operates the nation’s largest healthcare system, called
+the Veterans Healthcare Administration (VHA). It consists of 150 medical
+centers and nearly 1,400 community-based outpatient clinics, community
+living centers, Vet centers, and domiciliary. Together, these healthcare
+facilities, and the more than 53,000 licensed healthcare practitioners,
+provide comprehensive care to more than 8.3 million veterans each year.</p>
+
+<p>When proven healthcare practices emerge in one or more of the VHA’s operations,
+how do you systematically identify and spread their adoption across the
+VHA’s healthcare delivery network? That’s the challenge the VA has been facing,
+and it’s an important one to solve given the life-saving implications.</p>
+
+
+    <h2>The solution</h2>
+    
+<p>In collaboration with <a href="https://agile6.com/">Agile Six</a>, we’ve been
+working with the VHA to address this challenge through the delivery of a knowledge management
+platform called the Diffusion Marketplace. The purpose of this platform is to empower VHA
+practitioners and other employees to identify and disseminate promising healthcare practices.</p>
+
+<p>We’ve aligned our delivery approach to the <a href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/digital-standards">VA’s Digital Service Handbook</a>
+and focused our initial product strategy on figuring out how to design an
+experience that leads to the wider adoption of three life-saving and cost-saving
+practices (for example, rapid naloxone delivery). These practices have already been
+proven to work at a small subset of the VHA’s healthcare facilities.</p>
+
+<p>After validating our primary design solution through research and prototyping,
+we rapidly iterated toward the release of beta and production versions of the
+platform — with an initial collection of over 50 practices.</p>
+
+<p>Following production launch, our team has focused on continually improving the platform,
+including:</p>
+
+<ul>
+  <li>Expanding the number of practices, such as hospital-acquired pneumonia prevention,
+and the rate at which they’re adopted</li>
+  <li>Developed a new practice editor feature that empowers practice editors to update
+their content directly and helps ensure the site has the most up-to-date information</li>
+  <li>Improved the home and search experience to balance the competing needs of targeted
+searches with exploratory browsing</li>
+</ul>
+ 
+    <div>
+    <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-0">
+    <a data-toggle="collapse" href="#accordionCollapse-0" aria-expanded="false" aria-controls="accordionCollapse-0" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Team
+    members</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-0" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-0">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      
+      <ul class="has-col">
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#becca-bartola">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/becca-bartola.jpg" alt="Photo of Becca Bartola" />
+              </div>
+              <span>B. Bartola</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#tomi-obikunle">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/tomi-obikunle.jpg" alt="Photo of Tomi Obikunle" />
+              </div>
+              <span>T. Obikunle</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#elisa-lee">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/elisa-lee.jpg" alt="Photo of Elisa Lee" />
+              </div>
+              <span>E. Lee</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <div class="profile d-flex flex-row align-items-center">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/lesley-evans.jpg" alt="Photo of Lesley Evans" />
+              </div>
+              <span>L. Evans</span>
+            </div>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <div class="profile d-flex flex-row align-items-center">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/tom-black.jpg" alt="Photo of Tom Black" />
+              </div>
+              <span>T. Black</span>
+            </div>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <div class="profile d-flex flex-row align-items-center">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/aera-hoffman.jpg" alt="Photo of Aera Hoffman" />
+              </div>
+              <span>A. Hoffman</span>
+            </div>
+            
+          </span>
+        </li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-1">
+    <a data-toggle="collapse" href="#accordionCollapse-1" aria-expanded="false" aria-controls="accordionCollapse-1" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Technologies used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-1" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-1">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Ruby / Rails</span></li>
+        
+        <li><span class="approach-item">U.S. Web Design System</span></li>
+        
+        <li><span class="approach-item">HTML / CSS / Sass</span></li>
+        
+        <li><span class="approach-item">JavaScript</span></li>
+        
+        <li><span class="approach-item">CircleCI</span></li>
+        
+        <li><span class="approach-item">Terraform</span></li>
+        
+        <li><span class="approach-item">Docker</span></li>
+        
+        <li><span class="approach-item">Amazon Web Services</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-2">
+    <a data-toggle="collapse" href="#accordionCollapse-2" aria-expanded="false" aria-controls="accordionCollapse-2" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Practices
+    used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-2" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-2">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">User research</span></li>
+        
+        <li><span class="approach-item">Design studios</span></li>
+        
+        <li><span class="approach-item">Comparative analysis</span></li>
+        
+        <li><span class="approach-item">Technical discovery</span></li>
+        
+        <li><span class="approach-item">User experience design</span></li>
+        
+        <li><span class="approach-item">Branding design</span></li>
+        
+        <li><span class="approach-item">Visual design</span></li>
+        
+        <li><span class="approach-item">Design system</span></li>
+        
+        <li><span class="approach-item">Accessibility design</span></li>
+        
+        <li><span class="approach-item">Responsive web design</span></li>
+        
+        <li><span class="approach-item">Agile development</span></li>
+        
+        <li><span class="approach-item">DevSecOps</span></li>
+        
+        <li><span class="approach-item">Open-source development</span></li>
+        
+        <li><span class="approach-item">Cloud hosting</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+
+    </div>
+
+    <h2>The results</h2>
+    
+<ul>
+  <li>Delivered an alpha version of the platform within two months</li>
+  <li>Launched a beta version with a small user base in the summer of 2019</li>
+  <li>Expanded the number of practices to 119 in total</li>
+  <li>Facilitated the adoption of 100 practices through the platform itself</li>
+</ul>
+
+    
+      
+      
+        <aside class="news-coverage callout">
+          <h2>News coverage</h2>
+          <ul>
+            
+            <li>
+              <a href="https://federalnewsnetwork.com/veterans-affairs/2019/10/va-innovators-see-home-grown-ideas-spread-far-and-wide-across-veterans-health-network/"><p>VA innovators see home-grown ideas spread far and wide across veterans health network</p>
+</a>
+            </li>
+            
+            <li>
+              <a href="https://www.fedhealthit.com/2020/02/fedhealthit-2020-innovation-award-winners-announced/"><p>FedHealthIT 2020 Innovation Award Winners Announced</p>
+</a>
+            </li>
+            
+          </ul>
+        </aside>
+      
+    
+  </div>
+
+  
+  <div class="project-case-study-footer">
+      
+    
+    <a class="work-example-cta" href="https://github.com/agilesix/diffusion-marketplace" role="button">Read the code</a>
+     
+  </div>
+  
+
+  <a class="post-footer__see-all" href="/work/experience/">
+    <i class="fal fa-long-arrow-left mr-2" aria-hidden="true"></i>See all case studies
+  </a>
+</article>
+
+<section class="page-subfooter">
+  <div class="page-subfooter-content">
+    <div class="page-subfooter-header-row">
+      <div class="page-subfooter-header-col">
+        <h2 class="page-subfooter-heading">Let’s deliver together.</h2>
+      </div>
+    </div>
+
+    <div class="page-subfooter-text-row">
+      <div class="page-subfooter-text-col">
+        <p>However bold the idea or complex the problem, we work with you  <br class="linebreak" />to deliver results in weeks, not years.</p>
+
+      </div>
+    </div>
+
+    
+    
+
+    <div class="page-subfooter-cta-row">
+      <div class="page-subfooter-cta-col">
+        <a href="/connect/contact/" role="button">
+          <span>Contact us</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>]]></content><author><name></name></author><category term="service delivery" /><category term="research &amp; design" /><category term="software delivery" /><category term="veterans" /><category term="healthcare" /><category term="becca bartola" /><category term="lesley evans" /><category term="tom black" /><category term="aera hoffman" /><category term="tomi obikunle" /><category term="elisa lee" /><summary type="html"><![CDATA[A knowledge management platform for improving how the Veterans Affairs delivers healthcare to veterans through the dissemination of promising clinical and administrative practices.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/projects/va_diffusion_marketplace/diffusion-marketplace.svg" /><media:content medium="image" url="https://skylight.digital/img/projects/va_diffusion_marketplace/diffusion-marketplace.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Creating a tool for governing APIs</title><link href="https://skylight.digital/work/experience/va-api-scorecard-mvp/" rel="alternate" type="text/html" title="Creating a tool for governing APIs" /><published>2022-02-01T04:22:24+00:00</published><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/work/experience/va_api_scorecard_mvp</id><content type="html" xml:base="https://skylight.digital/work/experience/va-api-scorecard-mvp/"><![CDATA[<article class="project-case-study grid-container maxw-md">
+  <header class="project-case-study-header">
+    <div class="project-case-study-title-tag header-display-5">
+      Veterans Affairs
+    </div>
+    <h1 class="project-case-study-title header-display-2 header-page">
+      Creating a tool for governing APIs
+    </h1>
+  </header>
+
+  <div class="project-case-study-content">
+    <h2 class="sr-only">Summary</h2>
+    <div class="project-case-study-summary">
+<p>The Veterans Affairs (VA) needed to start preparing for how best to govern
+their growing portfolio of APIs. So we built them a minimum viable
+product (MVP) of an API Scorecard governance tool.</p>
+</div>
+
+    
+
+    <img class="project-feature-image  " src="/img/projects/va_api_scorecard_mvp/api-scorecard.svg" alt="People working around a scorecard for APIs." title="People working around a scorecard for APIs." />
+
+    <h2>The challenge</h2>
+    
+<p>The VA recently launched an initiative called API Platform Management.
+The purpose of this new enterprise-wide program is to transform how the
+VA shares digital services through APIs. Success requires good API governance,
+so VA leaders hypothesized that creating an API Scorecard tool for use by
+teams and management could help with:</p>
+
+<ul>
+  <li>Establishing a common understanding of the VA’s API delivery lifecycle and
+what success looks like at each stage</li>
+  <li>Enabling teams to keep management informed of status, progress, and health,
+and alert them to any issues requiring special attention</li>
+  <li>Giving management visibility into how teams are doing, where they need help,
+and what governance decisions need to be made</li>
+  <li>Giving stakeholders insight into the value of the VA’s portfolio of APIs</li>
+  <li>Reinforcing best practices among teams for delivering APIs successfully</li>
+</ul>
+
+<p>The VA needed a <em>lean</em> way to further flesh out and test this idea.</p>
+
+
+    <h2>The solution</h2>
+    
+<p>To address this need, we assembled a cross-functional team with expertise in
+UX design, software engineering, and API governance. Through a series of
+rapid iterations, we created an MVP of the API Scorecard governance tool.</p>
+
+<p>We used GitHub Pages to serve as a public front end and private back end for
+the application, a technique pioneered by a member of the Skylight team.
+This approach avoided the additional time, cost, and complexity associated
+with setting up a secure back-end server environment, thus keeping things lean.</p>
+
+<p>We also worked with the VA to not only define the stages of their
+API lifecycle, but also the “delivery success criteria” that governs
+how projects move from one stage to the next. We made both the stages
+and the criteria configurable with the application’s YAML files.</p>
+ 
+    <div>
+    <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-0">
+    <a data-toggle="collapse" href="#accordionCollapse-0" aria-expanded="false" aria-controls="accordionCollapse-0" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Team
+    members</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-0" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-0">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      
+      <ul class="has-col">
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#victor-zapanta">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/victor-zapanta.jpg" alt="Photo of Victor Zapanta" />
+              </div>
+              <span>V. Zapanta</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#nick-bristow">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/nick-bristow.jpg" alt="Photo of Nick Bristow" />
+              </div>
+              <span>N. Bristow</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#kin-lane">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/kin-lane.jpg" alt="Photo of Kin Lane" />
+              </div>
+              <span>K. Lane</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#robert-read">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/robert-read.jpg" alt="Photo of Robert Read" />
+              </div>
+              <span>R. Read</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#chris-cairns">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/chris-cairns.jpg" alt="Photo of Chris Cairns" />
+              </div>
+              <span>C. Cairns</span>
+            </a>
+            
+          </span>
+        </li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-1">
+    <a data-toggle="collapse" href="#accordionCollapse-1" aria-expanded="false" aria-controls="accordionCollapse-1" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Technologies used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-1" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-1">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">HTML / CSS / Sass</span></li>
+        
+        <li><span class="approach-item">JavaScript</span></li>
+        
+        <li><span class="approach-item">U.S. Web Design System</span></li>
+        
+        <li><span class="approach-item">Balsamiq</span></li>
+        
+        <li><span class="approach-item">YAML</span></li>
+        
+        <li><span class="approach-item">GitHub Pages</span></li>
+        
+        <li><span class="approach-item">Jekyll</span></li>
+        
+        <li><span class="approach-item">Git / GitHub</span></li>
+        
+        <li><span class="approach-item">OAuth</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-2">
+    <a data-toggle="collapse" href="#accordionCollapse-2" aria-expanded="false" aria-controls="accordionCollapse-2" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Practices
+    used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-2" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-2">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">User research</span></li>
+        
+        <li><span class="approach-item">User experience design</span></li>
+        
+        <li><span class="approach-item">Design system</span></li>
+        
+        <li><span class="approach-item">Lean startup</span></li>
+        
+        <li><span class="approach-item">Agile development</span></li>
+        
+        <li><span class="approach-item">Rapid prototyping</span></li>
+        
+        <li><span class="approach-item">Open-source development</span></li>
+        
+        <li><span class="approach-item">Identity and access management</span></li>
+        
+        <li><span class="approach-item">API governance</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+
+    </div>
+
+    <h2>The results</h2>
+    
+<ul>
+  <li>Delivered the MVP under the federal procurement micropurchase threshold of $10,000</li>
+  <li>Enabled the VA to begin experimenting with how best to govern their portfolio of APIs</li>
+  <li>Released all the source code in the open and with no copyright, making it
+freely available for anyone to reuse</li>
+</ul>
+
+    
+  </div>
+
+  
+  <div class="project-case-study-footer">
+      
+    <div class="work-example-cta-wrapper">
+    <a class="work-example-cta" href="https://skylight-hq.github.io/va-api-scorecard/" role="button">See the site</a>
+    </div>
+    <div class="work-example-cta-wrapper">
+    <a class="work-example-cta" href="https://github.com/skylight-hq/va-api-scorecard" role="button">Read the code</a>
+    </div>
+    
+  </div>
+  
+
+  <a class="post-footer__see-all" href="/work/experience/">
+    <i class="fal fa-long-arrow-left mr-2" aria-hidden="true"></i>See all case studies
+  </a>
+</article>
+
+<section class="page-subfooter">
+  <div class="page-subfooter-content">
+    <div class="page-subfooter-header-row">
+      <div class="page-subfooter-header-col">
+        <h2 class="page-subfooter-heading">Let’s deliver together.</h2>
+      </div>
+    </div>
+
+    <div class="page-subfooter-text-row">
+      <div class="page-subfooter-text-col">
+        <p>However bold the idea or complex the problem, we work with you  <br class="linebreak" />to deliver results in weeks, not years.</p>
+
+      </div>
+    </div>
+
+    
+    
+
+    <div class="page-subfooter-cta-row">
+      <div class="page-subfooter-cta-col">
+        <a href="/connect/contact/" role="button">
+          <span>Contact us</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>]]></content><author><name></name></author><category term="microconsulting" /><category term="apis" /><category term="open government" /><category term="victor zapanta" /><category term="nick bristow" /><category term="kin lane" /><category term="robert read" /><category term="chris cairns" /><summary type="html"><![CDATA[A minimum viable product enabling the Veterans Affairs to start learning how best to govern their growing portfolio of APIs.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/projects/va_api_scorecard_mvp/api-scorecard.svg" /><media:content medium="image" url="https://skylight.digital/img/projects/va_api_scorecard_mvp/api-scorecard.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Identifying valuable datasets for turning into APIs</title><link href="https://skylight.digital/work/experience/va-api-landscape-analysis/" rel="alternate" type="text/html" title="Identifying valuable datasets for turning into APIs" /><published>2022-02-01T04:22:24+00:00</published><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/work/experience/va_api_landscape_analysis</id><content type="html" xml:base="https://skylight.digital/work/experience/va-api-landscape-analysis/"><![CDATA[<article class="project-case-study grid-container maxw-md">
+  <header class="project-case-study-header">
+    <div class="project-case-study-title-tag header-display-5">
+      Veterans Affairs
+    </div>
+    <h1 class="project-case-study-title header-display-2 header-page">
+      Identifying valuable datasets for turning into APIs
+    </h1>
+  </header>
+
+  <div class="project-case-study-content">
+    <h2 class="sr-only">Summary</h2>
+    <div class="project-case-study-summary">
+<p>The Veterans Affairs’ (VA) API Platform Management team needed help
+developing a near-term roadmap of APIs to deliver. So we provided an
+analysis of the VA’s millions of public datasets and recommended which
+of these resources would be good candidates for turning into APIs, based
+on potential value to the veteran community.</p>
+</div>
+
+    
+
+    <img class="project-feature-image  " src="/img/projects/va_api_landscape_analysis/api-machine.svg" alt="Two people operating a machine that turns data into APIs." title="Two people operating a machine that turns data into APIs." />
+
+    <h2>The challenge</h2>
+    
+<p>The VA has produced millions of public datasets over the
+years in support of the veteran community. These resources tell a story
+about how much demand there is for accessing them. The VA’s API Platform
+Management team needed that insight in order to help formulate a near-term
+roadmap of valuable APIs to deliver.</p>
+
+
+    <h2>The solution</h2>
+    
+<p>To address this challenge, we conducted an API landscape analysis that involved:</p>
+
+<ul>
+  <li>Developing and running a spidering script that crawled all the VA web
+properties and performed a weighted semantic analysis on resources such
+XML files, CSV files, HTML tables, HTML forms, XLS/XLSX files, and other
+machine-readable formats</li>
+  <li>Conducting user research with veterans and their supporters to learn more about
+what types of data resources would be most valuable to them if made more available
+and accessible on the web, mobile devices, and other platforms</li>
+  <li>Analyzing and synthesizing the results of the spidering process and the user research</li>
+  <li>Preparing a report that detailed our methodology, analysis results, and
+recommendations for resources to prioritize as APIs</li>
+</ul>
+
+<p>In our report, we also made recommendations for how the VA can improve the
+quality of their analytical information so that resource ranking can be done more efficiently and effectively in the future.</p>
+ 
+    <div>
+    <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-0">
+    <a data-toggle="collapse" href="#accordionCollapse-0" aria-expanded="false" aria-controls="accordionCollapse-0" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Team
+    members</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-0" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-0">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      
+      <ul class="has-col">
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#kin-lane">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/kin-lane.jpg" alt="Photo of Kin Lane" />
+              </div>
+              <span>K. Lane</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#chris-cairns">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/chris-cairns.jpg" alt="Photo of Chris Cairns" />
+              </div>
+              <span>C. Cairns</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#robert-read">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/robert-read.jpg" alt="Photo of Robert Read" />
+              </div>
+              <span>R. Read</span>
+            </a>
+            
+          </span>
+        </li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-1">
+    <a data-toggle="collapse" href="#accordionCollapse-1" aria-expanded="false" aria-controls="accordionCollapse-1" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Technologies used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-1" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-1">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Custom spidering script</span></li>
+        
+        <li><span class="approach-item">HTML / CSS / Sass</span></li>
+        
+        <li><span class="approach-item">JavaScript</span></li>
+        
+        <li><span class="approach-item">Twitter Bootstrap</span></li>
+        
+        <li><span class="approach-item">GitHub Pages / Jekyll</span></li>
+        
+        <li><span class="approach-item">Git / GitHub</span></li>
+        
+        <li><span class="approach-item">Amazon Web Services</span></li>
+        
+        <li><span class="approach-item">MURAL</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-2">
+    <a data-toggle="collapse" href="#accordionCollapse-2" aria-expanded="false" aria-controls="accordionCollapse-2" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Practices
+    used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-2" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-2">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Spidering</span></li>
+        
+        <li><span class="approach-item">Semantic analysis</span></li>
+        
+        <li><span class="approach-item">User research / KJ technique</span></li>
+        
+        <li><span class="approach-item">Workshop facilitation</span></li>
+        
+        <li><span class="approach-item">Research analysis and synthesis</span></li>
+        
+        <li><span class="approach-item">Design system</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+
+    </div>
+
+    <h2>The results</h2>
+    
+<ul>
+  <li>Delivered the project under the federal procurement micropurchase threshold of $10,000</li>
+  <li>Crawled over 1 million URLs and evaluated over 20,000 data files</li>
+  <li>Informed the VA’s near-term API roadmap, which incorporated many of the
+APIs we recommended for delivery</li>
+  <li>Published the report in the open and with no copyright, making it free to
+anyone who wants to learn from and reuse the content</li>
+</ul>
+
+    
+  </div>
+
+  
+  <div class="project-case-study-footer">
+      
+    <div class="work-example-cta-wrapper">
+    <a class="work-example-cta" href="https://skylight-hq.github.io/va-api-landscape/" role="button">See the report</a>
+    </div>
+    <div class="work-example-cta-wrapper">
+    <a class="work-example-cta" href="https://github.com/skylight-hq/va-api-landscape" role="button">Read the code</a>
+    </div>
+    
+  </div>
+  
+
+  <a class="post-footer__see-all" href="/work/experience/">
+    <i class="fal fa-long-arrow-left mr-2" aria-hidden="true"></i>See all case studies
+  </a>
+</article>
+
+<section class="page-subfooter">
+  <div class="page-subfooter-content">
+    <div class="page-subfooter-header-row">
+      <div class="page-subfooter-header-col">
+        <h2 class="page-subfooter-heading">Let’s deliver together.</h2>
+      </div>
+    </div>
+
+    <div class="page-subfooter-text-row">
+      <div class="page-subfooter-text-col">
+        <p>However bold the idea or complex the problem, we work with you  <br class="linebreak" />to deliver results in weeks, not years.</p>
+
+      </div>
+    </div>
+
+    
+    
+
+    <div class="page-subfooter-cta-row">
+      <div class="page-subfooter-cta-col">
+        <a href="/connect/contact/" role="button">
+          <span>Contact us</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>]]></content><author><name></name></author><category term="microconsulting" /><category term="apis" /><category term="open government" /><category term="veterans" /><category term="kin lane" /><category term="chris cairns" /><category term="robert read" /><summary type="html"><![CDATA[Giving the Veterans Affairs insight into which of their vast collection of public datasets would be most valuable to the veteran community in the form of APIs.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/projects/va_api_landscape_analysis/api-machine.svg" /><media:content medium="image" url="https://skylight.digital/img/projects/va_api_landscape_analysis/api-machine.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Managing APIs successfully at scale</title><link href="https://skylight.digital/work/experience/va-api-governance-research/" rel="alternate" type="text/html" title="Managing APIs successfully at scale" /><published>2022-02-01T04:22:24+00:00</published><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/work/experience/va_api_governance_research</id><content type="html" xml:base="https://skylight.digital/work/experience/va-api-governance-research/"><![CDATA[<article class="project-case-study grid-container maxw-md">
+  <header class="project-case-study-header">
+    <div class="project-case-study-title-tag header-display-5">
+      Veterans Affairs
+    </div>
+    <h1 class="project-case-study-title header-display-2 header-page">
+      Managing APIs successfully at scale
+    </h1>
+  </header>
+
+  <div class="project-case-study-content">
+    <h2 class="sr-only">Summary</h2>
+    <div class="project-case-study-summary">
+<p>The Veterans Affairs’ (VA) API Platform Management team needed insight
+into current best practices for API governance. So we built them a
+comprehensive research report that drew on a combination of our own
+expertise and information gathered from interviewing
+leading organizations.</p>
+</div>
+
+    
+
+    <img class="project-feature-image  " src="/img/projects/va_api_governance_research/api-governance.svg" alt="A forklift operator lifting API-labeled containers." title="A forklift operator lifting API-labeled containers." />
+
+    <h2>The challenge</h2>
+    
+<p>In preparation for gearing up the number of APIs delivered across the
+enterprise, the VA’s API Platform Management team needed to better
+understand best practices for governing APIs, particularly given the
+lack of formal research in this area.</p>
+
+
+    <h2>The solution</h2>
+    
+<p>To address this challenge, we conducted a research process that involved:</p>
+
+<ul>
+  <li>Mining information related to API governance from our decade’s worth of
+existing primary and secondary research, which amounts to over 3,000
+API-related articles</li>
+  <li>Augmenting this research by interviewing key people responsible for
+API governance at a diverse number of public- and private-sector organizations</li>
+  <li>Analyzing and synthesizing our research information into a comprehensive
+report on API governance best practices, covering topic areas such as
+organizational models and standards</li>
+</ul>
+ 
+    <div>
+    <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-0">
+    <a data-toggle="collapse" href="#accordionCollapse-0" aria-expanded="false" aria-controls="accordionCollapse-0" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Team
+    members</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-0" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-0">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      
+      <ul class="has-col">
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#kin-lane">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/kin-lane.jpg" alt="Photo of Kin Lane" />
+              </div>
+              <span>K. Lane</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#chris-cairns">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/chris-cairns.jpg" alt="Photo of Chris Cairns" />
+              </div>
+              <span>C. Cairns</span>
+            </a>
+            
+          </span>
+        </li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-1">
+    <a data-toggle="collapse" href="#accordionCollapse-1" aria-expanded="false" aria-controls="accordionCollapse-1" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Technologies used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-1" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-1">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Zoom</span></li>
+        
+        <li><span class="approach-item">Google Workspace</span></li>
+        
+        <li><span class="approach-item">Git / GitHub</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-2">
+    <a data-toggle="collapse" href="#accordionCollapse-2" aria-expanded="false" aria-controls="accordionCollapse-2" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Practices
+    used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-2" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-2">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Primary research</span></li>
+        
+        <li><span class="approach-item">Secondary research</span></li>
+        
+        <li><span class="approach-item">Research analysis and synthesis</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+
+    </div>
+
+    <h2>The results</h2>
+    
+<ul>
+  <li>Delivered the project under the federal procurement micropurchase threshold of $10,000</li>
+  <li>Interviewed seven different organizations, including the Government Digital
+Service (UK), HM Revenue &amp; Customs (UK), Capital One, and more</li>
+  <li>Published the report in the open and with no copyright, making it free to anyone
+who wants to learn from and reuse the content</li>
+</ul>
+
+    
+  </div>
+
+  
+  <div class="project-case-study-footer">
+       
+    <a class="work-example-cta" href="https://github.com/skylight-hq/VA-Micropurchase-Repo/blob/master/2018-06-06_Governance_%20Models_in_Public_and_Private_Sector/Deliverables/Skylight/skylight_api_governance_research_report.md" role="button">See the report</a>
+     
+  </div>
+  
+
+  <a class="post-footer__see-all" href="/work/experience/">
+    <i class="fal fa-long-arrow-left mr-2" aria-hidden="true"></i>See all case studies
+  </a>
+</article>
+
+<section class="page-subfooter">
+  <div class="page-subfooter-content">
+    <div class="page-subfooter-header-row">
+      <div class="page-subfooter-header-col">
+        <h2 class="page-subfooter-heading">Let’s deliver together.</h2>
+      </div>
+    </div>
+
+    <div class="page-subfooter-text-row">
+      <div class="page-subfooter-text-col">
+        <p>However bold the idea or complex the problem, we work with you  <br class="linebreak" />to deliver results in weeks, not years.</p>
+
+      </div>
+    </div>
+
+    
+    
+
+    <div class="page-subfooter-cta-row">
+      <div class="page-subfooter-cta-col">
+        <a href="/connect/contact/" role="button">
+          <span>Contact us</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>]]></content><author><name></name></author><category term="microconsulting" /><category term="apis" /><category term="open government" /><category term="veterans" /><category term="kin lane" /><category term="chris cairns" /><summary type="html"><![CDATA[Giving the Veterans Affairs insight into current best practices for governing APIs across the enterprise.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/projects/va_api_governance_research/api-governance.svg" /><media:content medium="image" url="https://skylight.digital/img/projects/va_api_governance_research/api-governance.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Expanding the adoption of APIs</title><link href="https://skylight.digital/work/experience/va-api-developer-outreach/" rel="alternate" type="text/html" title="Expanding the adoption of APIs" /><published>2022-02-01T04:22:24+00:00</published><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/work/experience/va_api_developer_outreach</id><content type="html" xml:base="https://skylight.digital/work/experience/va-api-developer-outreach/"><![CDATA[<article class="project-case-study grid-container maxw-md">
+  <header class="project-case-study-header">
+    <div class="project-case-study-title-tag header-display-5">
+      Veterans Affairs
+    </div>
+    <h1 class="project-case-study-title header-display-2 header-page">
+      Expanding the adoption of APIs
+    </h1>
+  </header>
+
+  <div class="project-case-study-content">
+    <h2 class="sr-only">Summary</h2>
+    <div class="project-case-study-summary">
+<p>The Veterans Affairs’ (VA) API Platform Management team wanted to increase
+adoption of their APIs. We developed a comprehensive research report
+on how the VA can accomplish that goal, based on a combination of our own expertise and
+information gathered from interviewing leading organizations.</p>
+</div>
+
+    
+
+    <img class="project-feature-image  " src="/img/projects/va_api_developer_outreach/api-developer-outreach.svg" alt="Someone using a megaphone to spread the word about APIs." title="Someone using a megaphone to spread the word about APIs." />
+
+    <h2>The challenge</h2>
+    
+<p>Recognizing that simply making datasets and APIs available doesn’t guarantee
+success, the VA wanted to expand the adoption of their APIs. They needed
+insight into how to build and sustain an effective developer outreach program.</p>
+
+
+    <h2>The solution</h2>
+    
+<p>To address this challenge, we conducted a research process that involved:</p>
+
+<ul>
+  <li>Mining information related to API developer outreach from our decade’s worth of
+existing primary and secondary research, which amounts to over 3,000 API-related articles</li>
+  <li>Augmenting this research by interviewing key people responsible for API developer
+outreach at a diverse number of public- and private-sector organizations</li>
+  <li>Analyzing and synthesizing our research information into a comprehensive report on
+API developer outreach best practices, covering topic areas such as funnel metrics
+and developer sandbox environments</li>
+</ul>
+ 
+    <div>
+    <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-0">
+    <a data-toggle="collapse" href="#accordionCollapse-0" aria-expanded="false" aria-controls="accordionCollapse-0" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Team
+    members</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-0" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-0">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      
+      <ul class="has-col">
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#kin-lane">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/kin-lane.jpg" alt="Photo of Kin Lane" />
+              </div>
+              <span>K. Lane</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#chris-cairns">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/chris-cairns.jpg" alt="Photo of Chris Cairns" />
+              </div>
+              <span>C. Cairns</span>
+            </a>
+            
+          </span>
+        </li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-1">
+    <a data-toggle="collapse" href="#accordionCollapse-1" aria-expanded="false" aria-controls="accordionCollapse-1" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Technologies used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-1" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-1">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Zoom</span></li>
+        
+        <li><span class="approach-item">Google Workspace</span></li>
+        
+        <li><span class="approach-item">Git / GitHub</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-2">
+    <a data-toggle="collapse" href="#accordionCollapse-2" aria-expanded="false" aria-controls="accordionCollapse-2" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Practices
+    used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-2" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-2">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Primary research</span></li>
+        
+        <li><span class="approach-item">Secondary research</span></li>
+        
+        <li><span class="approach-item">Research analysis and synthesis</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+
+    </div>
+
+    <h2>The results</h2>
+    
+<ul>
+  <li>Delivered the project under the federal procurement micropurchase threshold of $10,000</li>
+  <li>Interviewed seven different organizations, including the Centers for
+Medicare &amp; Medicaid Services’ Blue Button API program, the Census Bureau,
+OpenFEC, and more</li>
+  <li>Published the report in the open and with no copyright, making it free to anyone
+who wants to learn from and reuse the content</li>
+</ul>
+
+    
+  </div>
+
+  
+  <div class="project-case-study-footer">
+       
+    <a class="work-example-cta" href="https://github.com/skylight-hq/VA-Micropurchase-Repo/blob/master/2018-07-05_Developer_Outreach/Deliverables/Skylight/skylight_api_developer_outreach_writeup.md" role="button">See the report</a>
+     
+  </div>
+  
+
+  <a class="post-footer__see-all" href="/work/experience/">
+    <i class="fal fa-long-arrow-left mr-2" aria-hidden="true"></i>See all case studies
+  </a>
+</article>
+
+<section class="page-subfooter">
+  <div class="page-subfooter-content">
+    <div class="page-subfooter-header-row">
+      <div class="page-subfooter-header-col">
+        <h2 class="page-subfooter-heading">Let’s deliver together.</h2>
+      </div>
+    </div>
+
+    <div class="page-subfooter-text-row">
+      <div class="page-subfooter-text-col">
+        <p>However bold the idea or complex the problem, we work with you  <br class="linebreak" />to deliver results in weeks, not years.</p>
+
+      </div>
+    </div>
+
+    
+    
+
+    <div class="page-subfooter-cta-row">
+      <div class="page-subfooter-cta-col">
+        <a href="/connect/contact/" role="button">
+          <span>Contact us</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>]]></content><author><name></name></author><category term="microconsulting" /><category term="apis" /><category term="open government" /><category term="veterans" /><category term="kin lane" /><category term="chris cairns" /><summary type="html"><![CDATA[Helping the Veterans Affairs increase adoption of their APIs through insight into current best practices for API developer outreach.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/projects/va_api_developer_outreach/api-developer-outreach.svg" /><media:content medium="image" url="https://skylight.digital/img/projects/va_api_developer_outreach/api-developer-outreach.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Reinventing the traditional military information portal</title><link href="https://skylight.digital/work/experience/space-force-web-portal/" rel="alternate" type="text/html" title="Reinventing the traditional military information portal" /><published>2022-02-01T04:22:24+00:00</published><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/work/experience/ussf_web_portal</id><content type="html" xml:base="https://skylight.digital/work/experience/space-force-web-portal/"><![CDATA[<article class="project-case-study grid-container maxw-md">
+  <header class="project-case-study-header">
+    <div class="project-case-study-title-tag header-display-5">
+      United States Space Force
+    </div>
+    <h1 class="project-case-study-title header-display-2 header-page">
+      Reinventing the traditional military information portal
+    </h1>
+  </header>
+
+  <div class="project-case-study-content">
+    <h2 class="sr-only">Summary</h2>
+    <div class="project-case-study-summary">
+<p>We quickly launched a minimum viable portal to help the United States Space Force (USSF)
+better disseminate mission-critical information to service members.</p>
+</div>
+
+    
+
+    <img class="project-feature-image  " src="/img/projects/ussf_web_portal/ussf-web-portal.svg" alt="A Space Force guardian navigating a web page." title="A Space Force guardian navigating a web page." />
+
+    <h2>The challenge</h2>
+    
+<p>The United States Space Force, the U.S. Armed Forces’ newest branch, was created with the
+mission of protecting American interests in space and developing a variety of space
+capabilities.</p>
+
+<p>With over 15,000 service members (also called Guardians) and growing, the USFF lacked a
+central place to share announcements, resources, and other mission-critical information
+with personnel.</p>
+
+<p>Instead, service members had to rely on easily-missed emails or newsletters to disseminate
+information. They had to use an array of disjointed tools to get help on essential topics
+such as health insurance information (milConnect) and basic allowance for housing (the BAH calculator).
+The diffuse nature of these tools made it cumbersome for service members to manage their lives and careers.
+Remembering what tool to use, and where to access it, presented a major pain point.</p>
+
+<p>To commemorate their first anniversary, USSF set out  to address this gap by working with
+Skylight and partners at Alaska Northstar Resources to build a modern portal supporting
+the needs of the growing organization. The team targeted launching a live portal within
+eight weeks, by January 1, 2021, to provide Space Force personnel with immediate access
+to resources and information that would allow them to be more effective Guardians.</p>
+
+
+    <h2>The solution</h2>
+    
+<p>To address this challenge, our team partnered with Space Force leadership to design and
+develop a minimum viable product (MVP). We worked quickly to meet the deadline,
+building the site in under two months.</p>
+
+<p>Even with the short deadline, we incorporated research activities to test content and design
+with users. For example, interviews with high-ranking military officials, such as a four-star
+general, provided the opportunity to understand what leadership needed in a portal from an
+organizational perspective.</p>
+
+<p>While putting a satellite into orbit requires everything to eventually be perfect at launch,
+software, on the other hand, is never really done. Therefore, it was important to introduce
+USSF to an agile process that involves continually iterating to improve on the initial MVP,
+even after launch. Additionally, because we had a mandate to reinvent the traditional portal,
+we implemented user-centered processes along the way — to show them how to build software
+<em>with</em> not <em>for</em> users.</p>
+
+<p>Rather than cluttering the portal with links, the team identified the highest priority
+content needs, starting with announcements, human resources information, and career
+opportunities. Incorporating best-practice design patterns from the U.S. Web Design
+System helped accelerate the process.</p>
+
+<p>The MVP marked a significant departure from the status quo. As one service member
+described it during a usability testing session:</p>
+
+<blockquote class="pullquote " cite="">
+  <p>I don’t like most military pages, tiny hyperlinks because the page is so full. This is different to what I’m used to seeing, for ease of use, the cleanliness is nice. This is the cleanest thing I’ve seen.</p>
+
+  
+</blockquote>
+
+<p>Space Force leadership similarly celebrated what we built.</p>
+
+<p>Coinciding with the organization’s one-year anniversary, the launch symbolized a new approach
+to digital for the USSF — one that’s not only modern at its core, but also human-centered and
+accessible, meeting the everyday needs of an important new branch of the U.S. military.</p>
+ 
+    <div>
+    <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-0">
+    <a data-toggle="collapse" href="#accordionCollapse-0" aria-expanded="false" aria-controls="accordionCollapse-0" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Team
+    members</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-0" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-0">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      
+      <ul class="has-col">
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#shashank-khandelwal">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/shashank-khandelwal.jpg" alt="Photo of Shashank Khandelwal" />
+              </div>
+              <span>S. Khandelwal</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#maya-benari">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/maya-benari.jpg" alt="Photo of Maya Benari" />
+              </div>
+              <span>M. Benari</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <div class="profile d-flex flex-row align-items-center">
+              <div class="employee-gradient-rect">
+                <img class="profile-img-rect employee-img" src="/img/people/zoe-do.png" alt="Illustration of Zoe Doe" />
+              </div>
+              <span>Z. Do</span>
+            </div>
+            
+          </span>
+        </li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-1">
+    <a data-toggle="collapse" href="#accordionCollapse-1" aria-expanded="false" aria-controls="accordionCollapse-1" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Technologies used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-1" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-1">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">HTML / CSS</span></li>
+        
+        <li><span class="approach-item">JavaScript</span></li>
+        
+        <li><span class="approach-item">Jekyll</span></li>
+        
+        <li><span class="approach-item">U.S. Web Design System</span></li>
+        
+        <li><span class="approach-item">Sketch</span></li>
+        
+        <li><span class="approach-item">Figma</span></li>
+        
+        <li><span class="approach-item">Trello</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-2">
+    <a data-toggle="collapse" href="#accordionCollapse-2" aria-expanded="false" aria-controls="accordionCollapse-2" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Practices
+    used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-2" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-2">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Product management</span></li>
+        
+        <li><span class="approach-item">Lean startup</span></li>
+        
+        <li><span class="approach-item">User research</span></li>
+        
+        <li><span class="approach-item">User experience design</span></li>
+        
+        <li><span class="approach-item">Visual design</span></li>
+        
+        <li><span class="approach-item">Design system</span></li>
+        
+        <li><span class="approach-item">Content strategy</span></li>
+        
+        <li><span class="approach-item">Content design</span></li>
+        
+        <li><span class="approach-item">Plain-language writing</span></li>
+        
+        <li><span class="approach-item">Persona development</span></li>
+        
+        <li><span class="approach-item">Usability testing</span></li>
+        
+        <li><span class="approach-item">Responsive web design</span></li>
+        
+        <li><span class="approach-item">Accessibility design</span></li>
+        
+        <li><span class="approach-item">Agile development</span></li>
+        
+        <li><span class="approach-item">Rapid prototyping</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+
+    </div>
+
+    <h2>The results</h2>
+    
+<ul>
+  <li>Launched an MVP portal in under two months to share critical information organization-wide</li>
+  <li>Partnered with Space Force to design an intuitive user experience, modern look and feel,
+and easy-to-find content</li>
+  <li>Laid the groundwork for a broader portal buildout in the future</li>
+  <li>Received positive feedback and recognition from Space Force service members and leadership</li>
+</ul>
+
+    
+  </div>
+
+  
+
+  <a class="post-footer__see-all" href="/work/experience/">
+    <i class="fal fa-long-arrow-left mr-2" aria-hidden="true"></i>See all case studies
+  </a>
+</article>
+
+<section class="page-subfooter">
+  <div class="page-subfooter-content">
+    <div class="page-subfooter-header-row">
+      <div class="page-subfooter-header-col">
+        <h2 class="page-subfooter-heading">Let’s deliver together.</h2>
+      </div>
+    </div>
+
+    <div class="page-subfooter-text-row">
+      <div class="page-subfooter-text-col">
+        <p>However bold the idea or complex the problem, we work with you  <br class="linebreak" />to deliver results in weeks, not years.</p>
+
+      </div>
+    </div>
+
+    
+    
+
+    <div class="page-subfooter-cta-row">
+      <div class="page-subfooter-cta-col">
+        <a href="/connect/contact/" role="button">
+          <span>Contact us</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>]]></content><author><name></name></author><category term="service delivery" /><category term="research &amp; design" /><category term="defense" /><category term="space force" /><category term="shashank khandelwal" /><category term="maya benari" /><category term="zoe do" /><summary type="html"><![CDATA[A modern portal enabling the United States Space Force to share critical information with a growing organization of over 15,000 service members.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/projects/ussf_web_portal/ussf-web-portal.svg" /><media:content medium="image" url="https://skylight.digital/img/projects/ussf_web_portal/ussf-web-portal.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Advocating for API-accessible recreation data</title><link href="https://skylight.digital/work/experience/usda-recreation-information-database-api/" rel="alternate" type="text/html" title="Advocating for API-accessible recreation data" /><published>2022-02-01T04:22:24+00:00</published><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/work/experience/usda_recreation_info_database_api</id><content type="html" xml:base="https://skylight.digital/work/experience/usda-recreation-information-database-api/"><![CDATA[<article class="project-case-study grid-container maxw-md">
+  <header class="project-case-study-header">
+    <div class="project-case-study-title-tag header-display-5">
+      U.S. Department of Agriculture
+    </div>
+    <h1 class="project-case-study-title header-display-2 header-page">
+      Advocating for API-accessible recreation data
+    </h1>
+  </header>
+
+  <div class="project-case-study-content">
+    <h2 class="sr-only">Summary</h2>
+    <div class="project-case-study-summary">
+<p>When the U.S. Department of Agriculture’s (USDA) Recreation.gov
+contract came up for rebid, the request for proposal (RFP) had insufficient
+language regarding an API for accessing the website’s data layer,
+called the Recreation Information Database (RIDB). Without a good API in place,
+the Recreation.gov website would be the only source for browsing national
+park information from RIDB, thus limiting the potential for mobile and other
+forward-thinking types of applications. Proposing the right language helped
+reduce the USDA’s risk of procuring the wrong solution.</p>
+</div>
+
+    
+
+    <img class="project-feature-image  " src="/img/projects/usda_recreation_information_database_api/recreation-api.svg" alt="Two people camping with one of them using a mobile device." title="Two people camping with one of them using a mobile device." />
+
+    <h2>The challenge</h2>
+    
+<p>The <a href="https://www.fbo.gov/index?s=opportunity&amp;mode=form&amp;id=3c740c1e5b809e5ecd99a4cf8a0467b3&amp;tab=core&amp;_cview=0">Recreation.gov RFP</a>
+was going to close in two weeks. To align this effort with its
+<a href="https://project-open-data.cio.gov/policy-memo/">Open Data Policy</a>,
+the White House sought urgent advice on how to make the RFP more API-focused so that the next
+generation of Recreation.gov could not only serve mobile users, but also foster future
+innovation via an external API developer community.</p>
+
+
+    <h2>The solution</h2>
+    
+<p>Working as an API evangelist, Kin Lane answered the White House’s
+call-to-civic-action by <a href="http://apievangelist.com/2014/10/16/i-need-help-to-make-sure-the-dept-of-agriculture-leads-with-apis-in-their-parks-and-recreation-rfp/">proposing critical language changes to the RFP</a>
+to ensure that vendor proposals reflected an API-based solution approach
+using best practices such as RESTful API design, supporting documentation,
+and software development kits (or SDKs).</p>
+
+<p>Following the rework and release of the RFP, Kin engaged even further in
+helping to make the RIDB API a success by building a user and
+developer community around it, as well as collaborating with industry
+and government to explore <a href="http://apievangelist.com/2015/08/24/setting-a-precedent-when-charging-for-high-volume-access-to-government-apis/">innovative economic models for monetizing access to national park data</a>.</p>
+ 
+    <div>
+    <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-0">
+    <a data-toggle="collapse" href="#accordionCollapse-0" aria-expanded="false" aria-controls="accordionCollapse-0" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Team
+    members</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-0" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-0">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      
+      <ul class="has-col">
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#kin-lane">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/kin-lane.jpg" alt="Photo of Kin Lane" />
+              </div>
+              <span>K. Lane</span>
+            </a>
+            
+          </span>
+        </li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-1">
+    <a data-toggle="collapse" href="#accordionCollapse-1" aria-expanded="false" aria-controls="accordionCollapse-1" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Technologies used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-1" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-1">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">OpenAPI Specification</span></li>
+        
+        <li><span class="approach-item">API Umbrella</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-2">
+    <a data-toggle="collapse" href="#accordionCollapse-2" aria-expanded="false" aria-controls="accordionCollapse-2" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Practices
+    used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-2" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-2">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">API design</span></li>
+        
+        <li><span class="approach-item">API management</span></li>
+        
+        <li><span class="approach-item">API service composition</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+
+    </div>
+
+    <h2>The results</h2>
+    
+<ul>
+  <li>Shaped the final RFP for Recreation.gov, which resulted in the development and
+release of a <a href="https://usda.github.io/RIDB/">public RIDB API</a></li>
+  <li>Facilitated innovative thinking around the monetization of government’s public data</li>
+</ul>
+
+    
+      
+      
+        <aside class="news-coverage callout">
+          <h2>News coverage</h2>
+          <ul>
+            
+            <li>
+              <a href="http://www.govtech.com/opinion/Advocates-Call-for-Open-Data-in-Outdoor-Recreation.html"><p>Advocates Call for Open Data in Outdoor Recreation</p>
+</a>
+            </li>
+            
+          </ul>
+        </aside>
+      
+    
+  </div>
+
+  
+
+  <a class="post-footer__see-all" href="/work/experience/">
+    <i class="fal fa-long-arrow-left mr-2" aria-hidden="true"></i>See all case studies
+  </a>
+</article>
+
+<section class="page-subfooter">
+  <div class="page-subfooter-content">
+    <div class="page-subfooter-header-row">
+      <div class="page-subfooter-header-col">
+        <h2 class="page-subfooter-heading">Let’s deliver together.</h2>
+      </div>
+    </div>
+
+    <div class="page-subfooter-text-row">
+      <div class="page-subfooter-text-col">
+        <p>However bold the idea or complex the problem, we work with you  <br class="linebreak" />to deliver results in weeks, not years.</p>
+
+      </div>
+    </div>
+
+    
+    
+
+    <div class="page-subfooter-cta-row">
+      <div class="page-subfooter-cta-col">
+        <a href="/connect/contact/" role="button">
+          <span>Contact us</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>]]></content><author><name></name></author><category term="procurement" /><category term="microconsulting" /><category term="apis" /><category term="open government" /><category term="agriculture" /><category term="kin lane" /><summary type="html"><![CDATA[Sharing expertise of APIs to improve a critical solicitation for the next generation of Recreation.gov.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/projects/usda_recreation_information_database_api/recreation-api.svg" /><media:content medium="image" url="https://skylight.digital/img/projects/usda_recreation_information_database_api/recreation-api.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Modernizing employment eligibility verification</title><link href="https://skylight.digital/work/experience/uscis-everify-modernization/" rel="alternate" type="text/html" title="Modernizing employment eligibility verification" /><published>2022-02-01T04:22:24+00:00</published><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/work/experience/uscis_everify_modernization</id><content type="html" xml:base="https://skylight.digital/work/experience/uscis-everify-modernization/"><![CDATA[<article class="project-case-study grid-container maxw-md">
+  <header class="project-case-study-header">
+    <div class="project-case-study-title-tag header-display-5">
+      U.S. Citizenship and Immigration Services
+    </div>
+    <h1 class="project-case-study-title header-display-2 header-page">
+      Modernizing employment eligibility verification
+    </h1>
+  </header>
+
+  <div class="project-case-study-content">
+    <h2 class="sr-only">Summary</h2>
+    <div class="project-case-study-summary">
+<p>The U.S. Citizenship and Immigration Services’ (USCIS) E-Verify system is
+used by employers to confirm the eligibility of their employees to work
+in the U.S. As part of USCIS’ efforts to modernize E-Verify, we engaged as a
+subcontractor to Excella and provided API design and technical expertise
+that contributed to the successful relaunch of the system, despite the
+complexity of the existing legacy environment.</p>
+</div>
+
+    
+
+    <img class="project-feature-image  " src="/img/projects/uscis_everify_modernization/employment-eligibility-verification.svg" alt="A person using a punchcard to enter work." title="A person using a punchcard to enter work." />
+
+    <h2>The challenge</h2>
+    
+<p>Several years ago, USCIS undertook a massive initiative to modernize their
+E-Verify system in order to improve the overall user experience. A major
+challenge with this modernization has been the need to maintain and
+integrate with a myriad of legacy systems, while simultaneously
+building out and optimizing the new system.</p>
+
+
+    <h2>The solution</h2>
+    
+<p>As a subcontractor to <a href="https://www.excella.com/">Excella</a>, we helped address both
+the modernization and relaunch efforts, as well as legacy integration and modernization,
+using digital delivery practices. Some of our major contributions included:</p>
+
+<ul>
+  <li>Replacing existing services with new frameworks written
+in modern languages and deployed to the cloud</li>
+  <li>Enhancing the efficiency of the system’s query and information
+usage by rewriting the data-retrieval code in the object-relational mapping layer</li>
+  <li>Improving performance of the case data ingestion pipeline by
+reconfiguring the underlying architecture of the system’s data
+loading process, as well as upgrading the clustering hardware
+responsible for managing the loading</li>
+  <li>Creating an API-based microservice in order to simulate the behavior
+of a Social Security Administration system, which was needed for
+third-party API integration testing</li>
+</ul>
+ 
+    <div>
+    <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-0">
+    <a data-toggle="collapse" href="#accordionCollapse-0" aria-expanded="false" aria-controls="accordionCollapse-0" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Team
+    members</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-0" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-0">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      
+      <ul class="has-col">
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#josh-dorothy">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/josh-dorothy.jpg" alt="Photo of Josh Dorothy" />
+              </div>
+              <span>J. Dorothy</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#nick-bristow">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/nick-bristow.jpg" alt="Photo of Nick Bristow" />
+              </div>
+              <span>N. Bristow</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <div class="profile d-flex flex-row align-items-center">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/jay-danielian.jpg" alt="Photo of Jay Danielian" />
+              </div>
+              <span>J. Danielian</span>
+            </div>
+            
+          </span>
+        </li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-1">
+    <a data-toggle="collapse" href="#accordionCollapse-1" aria-expanded="false" aria-controls="accordionCollapse-1" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Technologies used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-1" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-1">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">HTML / CSS</span></li>
+        
+        <li><span class="approach-item">JavaScript / React / Redux</span></li>
+        
+        <li><span class="approach-item">Ruby / Rails</span></li>
+        
+        <li><span class="approach-item">Groovy</span></li>
+        
+        <li><span class="approach-item">JMeter</span></li>
+        
+        <li><span class="approach-item">APIs</span></li>
+        
+        <li><span class="approach-item">Microservices</span></li>
+        
+        <li><span class="approach-item">Swagger</span></li>
+        
+        <li><span class="approach-item">Amazon Web Services</span></li>
+        
+        <li><span class="approach-item">Docker</span></li>
+        
+        <li><span class="approach-item">Jenkins</span></li>
+        
+        <li><span class="approach-item">Chef</span></li>
+        
+        <li><span class="approach-item">Packer</span></li>
+        
+        <li><span class="approach-item">Elasticsearch</span></li>
+        
+        <li><span class="approach-item">Sequel</span></li>
+        
+        <li><span class="approach-item">Git / GitHub</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-2">
+    <a data-toggle="collapse" href="#accordionCollapse-2" aria-expanded="false" aria-controls="accordionCollapse-2" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Practices
+    used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-2" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-2">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Accessibility review</span></li>
+        
+        <li><span class="approach-item">Agile development</span></li>
+        
+        <li><span class="approach-item">Rapid prototyping</span></li>
+        
+        <li><span class="approach-item">API-first development</span></li>
+        
+        <li><span class="approach-item">Microservices architecture</span></li>
+        
+        <li><span class="approach-item">RESTful / SOAP API architecture</span></li>
+        
+        <li><span class="approach-item">Legacy reengineering / strangler pattern</span></li>
+        
+        <li><span class="approach-item">Data engineering</span></li>
+        
+        <li><span class="approach-item">DevSecOps</span></li>
+        
+        <li><span class="approach-item">Containerization</span></li>
+        
+        <li><span class="approach-item">Cloud hosting</span></li>
+        
+        <li><span class="approach-item">Automated documentation</span></li>
+        
+        <li><span class="approach-item">Co-located teams</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+
+    </div>
+
+    <h2>The results</h2>
+    
+<ul>
+  <li>Helped relaunch E-Verify in April of 2018</li>
+  <li>Migrated 225 million historical cases into the Elasticsearch
+datastore for efficient, fast-searching capability</li>
+  <li>Improved the speed of verification for over 800,000 enrolled employers</li>
+</ul>
+
+    
+  </div>
+
+  
+
+  <a class="post-footer__see-all" href="/work/experience/">
+    <i class="fal fa-long-arrow-left mr-2" aria-hidden="true"></i>See all case studies
+  </a>
+</article>
+
+<section class="page-subfooter">
+  <div class="page-subfooter-content">
+    <div class="page-subfooter-header-row">
+      <div class="page-subfooter-header-col">
+        <h2 class="page-subfooter-heading">Let’s deliver together.</h2>
+      </div>
+    </div>
+
+    <div class="page-subfooter-text-row">
+      <div class="page-subfooter-text-col">
+        <p>However bold the idea or complex the problem, we work with you  <br class="linebreak" />to deliver results in weeks, not years.</p>
+
+      </div>
+    </div>
+
+    
+    
+
+    <div class="page-subfooter-cta-row">
+      <div class="page-subfooter-cta-col">
+        <a href="/connect/contact/" role="button">
+          <span>Contact us</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>]]></content><author><name></name></author><category term="service delivery" /><category term="software delivery" /><category term="legacy modernization" /><category term="devops" /><category term="cloud &amp; platforms" /><category term="data &amp; analytics" /><category term="apis" /><category term="security &amp; privacy" /><category term="homeland security" /><category term="citizenship &amp; immigration" /><category term="josh dorothy" /><category term="nick bristow" /><category term="jay danielian" /><summary type="html"><![CDATA[A modernized digital service for employers to confirm the eligibility of their employees to work in the U.S.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/projects/uscis_everify_modernization/employment-eligibility-verification.svg" /><media:content medium="image" url="https://skylight.digital/img/projects/uscis_everify_modernization/employment-eligibility-verification.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Building service design capacity</title><link href="https://skylight.digital/work/experience/usaf-service-design-capacity-building/" rel="alternate" type="text/html" title="Building service design capacity" /><published>2022-02-01T04:22:24+00:00</published><updated>2022-02-01T04:22:24+00:00</updated><id>https://skylight.digital/work/experience/usaf_sda</id><content type="html" xml:base="https://skylight.digital/work/experience/usaf-service-design-capacity-building/"><![CDATA[<article class="project-case-study grid-container maxw-md">
+  <header class="project-case-study-header">
+    <div class="project-case-study-title-tag header-display-5">
+      U.S. Air Force
+    </div>
+    <h1 class="project-case-study-title header-display-2 header-page">
+      Building service design capacity
+    </h1>
+  </header>
+
+  <div class="project-case-study-content">
+    <h2 class="sr-only">Summary</h2>
+    <div class="project-case-study-summary">
+<p>The U.S. Air Force (USAF) needed a way to deliver better user experience journeys across a complex ecosystem of operations, people, and technology. We were brought in to implement a solution for scaling the adoption of service design.</p>
+</div>
+
+    
+
+    <img class="project-feature-image  " src="/img/projects/usaf_sda/service-design.svg" alt="A few people working on a kanban board on the wall." title="A few people working on a kanban board on the wall." />
+
+    <h2>The challenge</h2>
+    
+<p>The USAF is on a mission to become a digitally-powered organization. As part of its approach to large-scale digital transformation, the USAF has stood up several “software factories” such as Kessel Run, BESPIN (Business Enterprise Systems Product INnovation), and Space CAMP. These groups have successfully spread the adoption of modern approaches to technology delivery, including user experience (UX) design.</p>
+
+<p>Within organizations as complex as the USAF, however, UX design falls short of delivering <em>optimal</em> user journeys. That’s because UX designers tend to focus on individual (mostly digital) touchpoints, rather than the full end-to-end user experience, which may include digital touchpoints but also organizational, operational, human, and physical touchpoints.</p>
+
+<p>Ultimately, UX design at enterprise scale perpetuates a patchwork of partial, inefficient solutions. This shortcoming has driven design-minded organizations like Google and the UK Government Digital Service to embrace service design. Service design is an emerging, but proven discipline for designing, aligning, and optimizing an organization’s operation (people, processes, technology, etc.) to better support user journeys.</p>
+
+<p>Recognizing the need for a more holistic approach to human-centered design, the USAF engaged us through the <a href="https://www.afwerx.af.mil/">AFWERX program</a> to help it rapidly scale the adoption of service design, starting with BESPIN and the Weather Systems Program Office (WxPO).</p>
+
+
+    <h2>The solution</h2>
+    
+<p>Based on our years of experience, we believe that internal capacity building is the key to any successful transformation. We also believe that the best way to build internal capacity is by:</p>
+
+<ul>
+  <li>Understanding the organization’s readiness for change before trying to introduce something new</li>
+  <li>Embedding experts within the organization to work hand-in-hand with existing staff to solve high-priority, real-world problems using alternative ways of working</li>
+  <li>Leveling up people’s know-how through a mix of (some) traditional classroom instruction and (a lot of) learning-by-doing</li>
+  <li>Gaining empirical insights into what it’s going to take to drive organization-wide change (for example, which capabilities to mature) through the act of doing (that is, using new approaches to solve actual problems)</li>
+  <li>Inspiring change by demonstrating the value of doing things differently</li>
+  <li>Creating reusable assets (for example, a methodology, documented lessons learned) as a byproduct of our work in order to accelerate adoption</li>
+</ul>
+
+<p>Therefore, in order to provide the USAF with a viable way to scale the adoption of service design, we developed a solution called the Service Design Accelerator that features the following key components:</p>
+
+<ul>
+  <li>Readiness assessment</li>
+  <li>Capability development roadmap</li>
+  <li>Service design doing (that is, using service design to solve real-world problems)</li>
+  <li>Skills development (training and pairing)</li>
+  <li>Toolkit development (for example, practitioner guide)</li>
+</ul>
+
+<p>We then collaborated with the USAF to implement and iterate on this solution. This effort involved the following activities:</p>
+
+<ul>
+  <li>Conducting a readiness assessment, which revealed WxPO and BESPIN as viable early adopters (for example, leadership support)</li>
+  <li>Engaging with WxPO to solve major customer experience issues that it was facing with its multi-year cloud migration effort</li>
+  <li>Pairing our experts with staff from WxPO and BESPIN throughout the engagement in order to develop their skills</li>
+  <li>Collaborating with the renowned <a href="https://designlab.ucsd.edu/">UC San Diego Design Lab</a> to develop a comprehensive framework for doing service design within government</li>
+  <li>Defining a training curriculum based on this framework and progressing several students through that training</li>
+  <li>Developing a roadmap for WxPO and BESPIN that identified where and how they need to improve their service design capabilities, based on our collective experience working together</li>
+  <li>Capturing and communicating the value of our work through case studies and stakeholder briefings</li>
+</ul>
+
+<p>Through our support, we helped introduce a viable solution for scaling the adoption of service design across the USAF and beyond.</p>
+ 
+    <div>
+    <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-0">
+    <a data-toggle="collapse" href="#accordionCollapse-0" aria-expanded="false" aria-controls="accordionCollapse-0" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Team
+    members</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-0" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-0">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      
+      <ul class="has-col">
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#charlye-tran">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/charlye-tran.jpg" alt="Photo of Charlye Tran" />
+              </div>
+              <span>C. Tran</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <a class="profile profile-link d-flex flex-row align-items-center" href="/company/about/#laura-kerry">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/laura-kerry.jpg" alt="Photo of Laura Kerry" />
+              </div>
+              <span>L. Kerry</span>
+            </a>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <div class="profile d-flex flex-row align-items-center">
+              <div class="employee-gradient">
+                <img class="profile-img employee-img" src="/img/people/olivia-lucas.jpg" alt="Photo of Olivia Lucas" />
+              </div>
+              <span>O. Lucas</span>
+            </div>
+            
+          </span>
+        </li>
+           
+        <li>
+          <span class="approach-item">
+            
+            <div class="profile d-flex flex-row align-items-center">
+              <div class="employee-gradient-rect">
+                <img class="profile-img-rect employee-img" src="/img/people/zoe-do.png" alt="Illustration of Zoe Doe" />
+              </div>
+              <span>Z. Do</span>
+            </div>
+            
+          </span>
+        </li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-1">
+    <a data-toggle="collapse" href="#accordionCollapse-1" aria-expanded="false" aria-controls="accordionCollapse-1" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Technologies used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-1" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-1">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Google Workspace</span></li>
+        
+        <li><span class="approach-item">MURAL</span></li>
+        
+        <li><span class="approach-item">Mattermost</span></li>
+        
+        <li><span class="approach-item">Slack</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+  <!-- Accordion card -->
+<div class="card accordion-card" role="tablist">
+  <!-- Card header -->
+  <div class="accordion-header" role="tab" id="accordionHeading-2">
+    <a data-toggle="collapse" href="#accordionCollapse-2" aria-expanded="false" aria-controls="accordionCollapse-2" class="collapsed">
+      <div>
+        <h3 class="accordion-heading mb-0">
+          <div>Practices
+    used</div>
+        </h3>
+      </div>
+    </a>
+  </div>
+
+  <!-- Card body -->
+  <div id="accordionCollapse-2" class="collapse" role="tabpanel" aria-labelledby="accordionHeading-2">
+    <div class="card-body accordion-card-body">
+      
+    <aside class="approach">
+      <ul class="has-col">
+        
+        <li><span class="approach-item">Service design</span></li>
+        
+        <li><span class="approach-item">Stakeholder mapping</span></li>
+        
+        <li><span class="approach-item">Customer and stakeholder interviews</span></li>
+        
+        <li><span class="approach-item">Service blueprinting</span></li>
+        
+        <li><span class="approach-item">Prioritization workshops</span></li>
+        
+        <li><span class="approach-item">Consulting</span></li>
+        
+        <li><span class="approach-item">Instructional design</span></li>
+        
+        <li><span class="approach-item">Coaching &amp; training</span></li>
+        
+        <li><span class="approach-item">Pairing</span></li>
+        
+      </ul>
+    </aside>
+    
+    </div>
+  </div>
+</div>
+<!-- Accordion card -->
+
+    </div>
+
+    <h2>The results</h2>
+    
+<ul>
+  <li>Demonstrated the viability of our Service Design Accelerator solution</li>
+  <li>Created a 70+ page service design practitioner guide in collaboration with the UC San Diego Design Lab</li>
+  <li>Developed a comprehensive service design training curriculum</li>
+  <li>Inspired WxPO, BESPIN, and other organizations to expand the use of our Service Design Accelerator solution</li>
+</ul>
+
+    
+  </div>
+
+  
+
+  <a class="post-footer__see-all" href="/work/experience/">
+    <i class="fal fa-long-arrow-left mr-2" aria-hidden="true"></i>See all case studies
+  </a>
+</article>
+
+<section class="page-subfooter">
+  <div class="page-subfooter-content">
+    <div class="page-subfooter-header-row">
+      <div class="page-subfooter-header-col">
+        <h2 class="page-subfooter-heading">Let’s deliver together.</h2>
+      </div>
+    </div>
+
+    <div class="page-subfooter-text-row">
+      <div class="page-subfooter-text-col">
+        <p>However bold the idea or complex the problem, we work with you  <br class="linebreak" />to deliver results in weeks, not years.</p>
+
+      </div>
+    </div>
+
+    
+    
+
+    <div class="page-subfooter-cta-row">
+      <div class="page-subfooter-cta-col">
+        <a href="/connect/contact/" role="button">
+          <span>Contact us</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>]]></content><author><name></name></author><category term="transformation" /><category term="research &amp; design" /><category term="coaching &amp; training" /><category term="air force" /><category term="charlye tran" /><category term="laura kerry" /><category term="olivia lucas" /><category term="zoe do" /><summary type="html"><![CDATA[Embedding service design ways of thinking and working throughout the U.S. Air Force, starting with BESPIN and the Weather Systems Program Office.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://skylight.digital/img/projects/usaf_sda/service-design.svg" /><media:content medium="image" url="https://skylight.digital/img/projects/usaf_sda/service-design.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
